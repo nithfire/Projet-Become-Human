@@ -3338,3 +3338,1157 @@ LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
 [2022.02.22-15.20.47:640][263]AssetCheck: New page: Asset Save: multiple assets
 [2022.02.22-15.20.47:640][263]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
 [2022.02.22-15.20.47:640][263]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2022.02.22-15.30.47:808][186]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.02.22-15.30.47:809][186]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Maps/Minimal_Default' took 0.008
+[2022.02.22-15.30.47:814][186]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/Wall_Paper/Victorian_Pattern/Substance_graph_roughness] ([1] browsable assets)...
+[2022.02.22-15.30.47:822][186]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Materials/Wall_Paper/Victorian_Pattern/Substance_graph_roughness.Substance_graph_roughness]
+[2022.02.22-15.30.47:822][186]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/Wall_Paper/Victorian_Pattern/Substance_graph_roughness]
+[2022.02.22-15.30.47:832][186]LogSavePackage: Moving 'C:/Users/theni/OneDrive/Desktop/Projet-Become-Human/BHProject/Saved/Substance_graph_roughness_Auto667C0E4E6440F7548AB7194A6BF21BFF0.tmp' to 'C:/Users/theni/OneDrive/Desktop/Projet-Become-Human/BHProject/Saved/Autosaves/Game/Materials/Wall_Paper/Victorian_Pattern/Substance_graph_roughness_Auto6.uasset'
+[2022.02.22-15.30.47:833][186]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/Wall_Paper/Victorian_Pattern/Substance_graph_normal] ([1] browsable assets)...
+[2022.02.22-15.30.47:835][186]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Materials/Wall_Paper/Victorian_Pattern/Substance_graph_normal.Substance_graph_normal]
+[2022.02.22-15.30.47:835][186]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/Wall_Paper/Victorian_Pattern/Substance_graph_normal]
+[2022.02.22-15.30.48:433][186]LogSavePackage: Moving 'C:/Users/theni/OneDrive/Desktop/Projet-Become-Human/BHProject/Saved/Substance_graph_normal_Auto6BFDD0BA84E4FDBB1C5C92FAAF37E82BC.tmp' to 'C:/Users/theni/OneDrive/Desktop/Projet-Become-Human/BHProject/Saved/Autosaves/Game/Materials/Wall_Paper/Victorian_Pattern/Substance_graph_normal_Auto6.uasset'
+[2022.02.22-15.30.48:434][186]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/Wall_Paper/Victorian_Pattern/Substance_graph_height] ([1] browsable assets)...
+[2022.02.22-15.30.48:441][186]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Materials/Wall_Paper/Victorian_Pattern/Substance_graph_height.Substance_graph_height]
+[2022.02.22-15.30.48:441][186]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/Wall_Paper/Victorian_Pattern/Substance_graph_height]
+[2022.02.22-15.30.48:475][186]LogSavePackage: Moving 'C:/Users/theni/OneDrive/Desktop/Projet-Become-Human/BHProject/Saved/Substance_graph_height_Auto64118E77F4EDD5C72B122D7B5FC7882A2.tmp' to 'C:/Users/theni/OneDrive/Desktop/Projet-Become-Human/BHProject/Saved/Autosaves/Game/Materials/Wall_Paper/Victorian_Pattern/Substance_graph_height_Auto6.uasset'
+[2022.02.22-15.30.48:477][186]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/Wall_Paper/Victorian_Pattern/Substance_graph_basecolor] ([1] browsable assets)...
+[2022.02.22-15.30.48:479][186]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Materials/Wall_Paper/Victorian_Pattern/Substance_graph_basecolor.Substance_graph_basecolor]
+[2022.02.22-15.30.48:479][186]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/Wall_Paper/Victorian_Pattern/Substance_graph_basecolor]
+[2022.02.22-15.30.48:645][186]LogSavePackage: Moving 'C:/Users/theni/OneDrive/Desktop/Projet-Become-Human/BHProject/Saved/Substance_graph_basecolor_Auto678A4B5E541C8592ED121B2ABBCCBB92F.tmp' to 'C:/Users/theni/OneDrive/Desktop/Projet-Become-Human/BHProject/Saved/Autosaves/Game/Materials/Wall_Paper/Victorian_Pattern/Substance_graph_basecolor_Auto6.uasset'
+[2022.02.22-15.30.48:647][186]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/Wall_Paper/Victorian_Pattern/Substance_graph_ambientocclusion] ([1] browsable assets)...
+[2022.02.22-15.30.48:649][186]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Materials/Wall_Paper/Victorian_Pattern/Substance_graph_ambientocclusion.Substance_graph_ambientocclusion]
+[2022.02.22-15.30.48:649][186]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/Wall_Paper/Victorian_Pattern/Substance_graph_ambientocclusion]
+[2022.02.22-15.30.48:705][186]LogSavePackage: Moving 'C:/Users/theni/OneDrive/Desktop/Projet-Become-Human/BHProject/Saved/Substance_graph_ambientocclusion4E15A51B490063D36F8739BD7631E478.tmp' to 'C:/Users/theni/OneDrive/Desktop/Projet-Become-Human/BHProject/Saved/Autosaves/Game/Materials/Wall_Paper/Victorian_Pattern/Substance_graph_ambientocclusion_Auto6.uasset'
+[2022.02.22-15.30.48:706][186]LogFileHelpers: Auto-saving content packages took 0.896
+[2022.02.22-16.50.01:582][558]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.02.22-16.50.01:649][558]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.22-16.50.01:650][558]PIE: New page: PIE session: Minimal_Default (22 févr. 2022 à 18:50:01)
+[2022.02.22-16.50.01:682][558]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2022.02.22-16.50.01:697][558]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.02.22-16.50.01:720][558]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2022.02.22-16.50.01:756][558]LogPlayLevel: PIE: StaticDuplicateObject took: (0.036023s)
+[2022.02.22-16.50.01:771][558]LogAIModule: Creating AISystem for world Minimal_Default
+[2022.02.22-16.50.01:778][558]LogPlayLevel: PIE: World Init took: (0.021260s)
+[2022.02.22-16.50.01:788][558]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.068463s)
+[2022.02.22-16.50.01:794][558]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2022.02.22-16.50.01:797][558]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.02.22-16.50.01:797][558]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.22-16.50.01:797][558]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.22-16.50.01:797][558]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.22-16.50.01:797][558]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.22-16.50.01:797][558]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.22-16.50.01:797][558]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.22-16.50.01:797][558]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.22-16.50.01:797][558]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.22-16.50.01:798][558]LogAudio: Display: Using built-in audio occlusion.
+[2022.02.22-16.50.01:798][558]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.22-16.50.01:800][558]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.22-16.50.01:800][558]LogAudioMixer: Display: 1: FrontRight
+[2022.02.22-16.50.01:842][558]LogAudioMixer: Display: Using Audio Device Haut-parleurs (Realtek High Definition Audio)
+[2022.02.22-16.50.01:843][558]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.22-16.50.01:843][558]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.22-16.50.01:843][558]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.22-16.50.01:845][558]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.22-16.50.01:845][558]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.22-16.50.01:846][558]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.22-16.50.01:846][558]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.22-16.50.01:846][558]LogInit: FAudioDevice initialized.
+[2022.02.22-16.50.01:846][558]LogAudio: Display: Audio Device (ID: 2) registered with world 'Minimal_Default'.
+[2022.02.22-16.50.01:909][558]LogLoad: Game class is 'GameModeBase'
+[2022.02.22-16.50.01:918][558]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2022.02.22-17.50.01
+[2022.02.22-16.50.01:927][558]LogWorld: Bringing up level for play took: 0.016947
+[2022.02.22-16.50.01:928][558]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2022.02.22-16.50.02:019][558]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.02.22-16.50.02:143][558]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0029 seconds. Added 20 classes and 0 folders.
+[2022.02.22-16.50.02:180][558]PIE: Server logged in
+[2022.02.22-16.50.02:181][558]PIE: Play in editor total start time 0,593 seconds.
+[2022.02.22-16.50.02:470][559]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/GameStateBase_16.svg'. File could not be found
+[2022.02.22-16.50.36:774][360]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.22-16.50.36:774][360]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2022.02.22-16.50.36:774][360]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2022.02.22-16.50.36:774][360]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.22-16.50.36:793][360]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.22-16.50.36:806][360]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.22-16.50.36:812][360]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.22-16.50.36:812][360]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.22-16.50.36:813][360]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.22-16.50.36:817][360]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.02.22-16.50.36:822][360]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.02.22-16.50.36:859][361]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2022.02.22-16.50.42:045][763]Cmd: TRANSACTION UNDO
+[2022.02.22-16.50.42:046][763]LogEditorTransaction: Undo Move Elements
+[2022.02.22-16.50.56:087][817]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.02.22-16.50.58:915][ 38]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.02.22-16.50.59:474][ 80]Cmd: TRANSACTION UNDO
+[2022.02.22-16.50.59:474][ 80]LogEditorTransaction: Undo Move Elements
+[2022.02.22-16.50.59:830][ 92]Cmd: TRANSACTION UNDO
+[2022.02.22-16.50.59:830][ 92]LogEditorTransaction: Undo Move Elements
+[2022.02.22-16.51.00:198][114]Cmd: TRANSACTION UNDO
+[2022.02.22-16.51.00:198][114]LogEditorTransaction: Undo Clicking on Actors
+[2022.02.22-16.51.10:729][925]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.02.22-16.51.10:735][925]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.22-16.51.10:735][925]PIE: New page: PIE session: Minimal_Default (22 févr. 2022 à 18:51:10)
+[2022.02.22-16.51.10:766][925]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2022.02.22-16.51.10:771][925]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004317s)
+[2022.02.22-16.51.10:772][925]LogAIModule: Creating AISystem for world Minimal_Default
+[2022.02.22-16.51.10:773][925]LogPlayLevel: PIE: World Init took: (0.002018s)
+[2022.02.22-16.51.10:773][925]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.006509s)
+[2022.02.22-16.51.10:778][925]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2022.02.22-16.51.10:781][925]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.02.22-16.51.10:781][925]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.22-16.51.10:781][925]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.22-16.51.10:781][925]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.22-16.51.10:781][925]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.22-16.51.10:781][925]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.22-16.51.10:781][925]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.22-16.51.10:781][925]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.22-16.51.10:781][925]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.22-16.51.10:781][925]LogAudio: Display: Using built-in audio occlusion.
+[2022.02.22-16.51.10:781][925]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.22-16.51.10:783][925]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.22-16.51.10:783][925]LogAudioMixer: Display: 1: FrontRight
+[2022.02.22-16.51.10:824][925]LogAudioMixer: Display: Using Audio Device Haut-parleurs (Realtek High Definition Audio)
+[2022.02.22-16.51.10:825][925]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.22-16.51.10:825][925]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.22-16.51.10:825][925]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.22-16.51.10:825][925]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.22-16.51.10:825][925]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.22-16.51.10:827][925]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.22-16.51.10:827][925]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.22-16.51.10:827][925]LogInit: FAudioDevice initialized.
+[2022.02.22-16.51.10:827][925]LogAudio: Display: Audio Device (ID: 3) registered with world 'Minimal_Default'.
+[2022.02.22-16.51.10:837][925]LogLoad: Game class is 'GameModeBase'
+[2022.02.22-16.51.10:837][925]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2022.02.22-17.51.10
+[2022.02.22-16.51.10:837][925]LogWorld: Bringing up level for play took: 0.000796
+[2022.02.22-16.51.10:838][925]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2022.02.22-16.51.10:839][925]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.02.22-16.51.10:840][925]PIE: Server logged in
+[2022.02.22-16.51.10:840][925]PIE: Play in editor total start time 0,106 seconds.
+[2022.02.22-16.51.15:307][272]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.22-16.51.15:307][272]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2022.02.22-16.51.15:307][272]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2022.02.22-16.51.15:307][272]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.22-16.51.15:320][272]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.22-16.51.15:330][272]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.22-16.51.15:335][272]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.22-16.51.15:335][272]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.22-16.51.15:336][272]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.22-16.51.15:341][272]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2022.02.22-16.51.15:349][272]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2022.02.22-16.51.15:384][273]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2022.02.22-16.51.28:818][990]LogTurnkeySupport: Display: Adding device menu item for NITHFIRE
+[2022.02.22-16.51.55:070][189]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.02.22-16.51.55:089][189]LogSavePackage: Moving 'C:/Users/theni/OneDrive/Desktop/Projet-Become-Human/BHProject/Saved/Minimal_Default_Auto7056105DF46B12DF2D37321B0A3BA9784.tmp' to 'C:/Users/theni/OneDrive/Desktop/Projet-Become-Human/BHProject/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto7.umap'
+[2022.02.22-16.51.55:092][189]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Maps/Minimal_Default' took 0.038
+[2022.02.22-16.51.55:092][189]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.038
+[2022.02.22-19.24.11:226][866]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\theni\OneDrive\Desktop\Projet-Become-Human\Low\Plan_de_travail_L.fbx)
+[2022.02.22-19.24.11:236][866]LogFbx: Loading FBX Scene from C:\Users\theni\OneDrive\Desktop\Projet-Become-Human\Low\Plan_de_travail_L.fbx
+[2022.02.22-19.24.11:243][866]LogFbx: FBX Scene Loaded Succesfully
+[2022.02.22-19.24.13:121][866]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.02.22-19.24.13:146][866]LogFbx: Display: Triangulating static mesh Plan_de_travail_L
+[2022.02.22-19.24.13:164][866]LogStaticMesh: Display: Building static mesh Plan_de_travail_L...
+[2022.02.22-19.24.13:172][866]LogStaticMesh: Built static mesh [0.01s] /Game/Environnement/Plan_de_travail_L.Plan_de_travail_L
+[2022.02.22-19.24.13:184][866]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2022.02.22-19.24.13:248][866]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\theni\OneDrive\Desktop\Projet-Become-Human\Low\Poutre_L.fbx)
+[2022.02.22-19.24.13:262][866]LogFbx: Loading FBX Scene from C:\Users\theni\OneDrive\Desktop\Projet-Become-Human\Low\Poutre_L.fbx
+[2022.02.22-19.24.13:270][866]LogFbx: FBX Scene Loaded Succesfully
+[2022.02.22-19.24.13:272][866]LogFbx: Display: Triangulating static mesh Poutre_L
+[2022.02.22-19.24.13:310][866]LogStaticMesh: Display: Building static mesh Poutre_L...
+[2022.02.22-19.24.13:323][866]LogStaticMesh: Built static mesh [0.01s] /Game/Environnement/Poutre_L.Poutre_L
+[2022.02.22-19.24.13:346][866]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2022.02.22-19.24.13:410][866]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\theni\OneDrive\Desktop\Projet-Become-Human\Low\Poutre_L2.fbx)
+[2022.02.22-19.24.13:421][866]LogFbx: Loading FBX Scene from C:\Users\theni\OneDrive\Desktop\Projet-Become-Human\Low\Poutre_L2.fbx
+[2022.02.22-19.24.13:428][866]LogFbx: FBX Scene Loaded Succesfully
+[2022.02.22-19.24.13:429][866]LogFbx: Display: Triangulating static mesh Poutre_L1
+[2022.02.22-19.24.13:470][866]LogStaticMesh: Display: Building static mesh Poutre_L2...
+[2022.02.22-19.24.13:479][866]LogStaticMesh: Built static mesh [0.01s] /Game/Environnement/Poutre_L2.Poutre_L2
+[2022.02.22-19.24.13:490][866]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2022.02.22-19.24.13:591][866]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\theni\OneDrive\Desktop\Projet-Become-Human\Low\Tablette_L.fbx)
+[2022.02.22-19.24.13:600][866]LogFbx: Loading FBX Scene from C:\Users\theni\OneDrive\Desktop\Projet-Become-Human\Low\Tablette_L.fbx
+[2022.02.22-19.24.13:604][866]LogFbx: FBX Scene Loaded Succesfully
+[2022.02.22-19.24.13:605][866]LogFbx: Display: Triangulating static mesh Tablette_L
+[2022.02.22-19.24.13:618][866]LogStaticMesh: Display: Building static mesh Tablette_L...
+[2022.02.22-19.24.13:634][866]LogStaticMesh: Built static mesh [0.02s] /Game/Environnement/Tablette_L.Tablette_L
+[2022.02.22-19.24.13:642][866]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2022.02.22-19.24.13:674][866]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\theni\OneDrive\Desktop\Projet-Become-Human\Low\Tirroir_L.fbx)
+[2022.02.22-19.24.13:681][866]LogFbx: Loading FBX Scene from C:\Users\theni\OneDrive\Desktop\Projet-Become-Human\Low\Tirroir_L.fbx
+[2022.02.22-19.24.13:687][866]LogFbx: FBX Scene Loaded Succesfully
+[2022.02.22-19.24.13:688][866]LogFbx: Display: Triangulating static mesh Tirroir_L
+[2022.02.22-19.24.13:729][866]LogStaticMesh: Display: Building static mesh Tirroir_L...
+[2022.02.22-19.24.13:750][866]LogStaticMesh: Built static mesh [0.02s] /Game/Environnement/Tirroir_L.Tirroir_L
+[2022.02.22-19.24.13:754][866]LogStaticMesh: Warning: Tirroir_L has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.02.22-19.24.13:766][866]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2022.02.22-19.24.13:766][866]FBXImport: Warning: Tirroir_L has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2022.02.22-19.24.13:854][866]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\theni\OneDrive\Desktop\Projet-Become-Human\Low\Arche_L.fbx)
+[2022.02.22-19.24.13:863][866]LogFbx: Loading FBX Scene from C:\Users\theni\OneDrive\Desktop\Projet-Become-Human\Low\Arche_L.fbx
+[2022.02.22-19.24.13:870][866]LogFbx: FBX Scene Loaded Succesfully
+[2022.02.22-19.24.13:875][866]LogMaterial: Display: Missing cached shadermap for lambert9 in PCD3D_SM5, Default, SM5 (DDC key hash: 71AECF82404FEBA965B45FBAF0047284870BC330), compiling. 
+[2022.02.22-19.24.13:878][866]LogFbx: Display: Triangulating static mesh Arche_L
+[2022.02.22-19.24.13:892][866]LogStaticMesh: Display: Building static mesh Arche_L...
+[2022.02.22-19.24.13:898][866]LogStaticMesh: Built static mesh [0.01s] /Game/Environnement/Arche_L.Arche_L
+[2022.02.22-19.24.13:907][866]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2022.02.22-19.24.14:012][866]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\theni\OneDrive\Desktop\Projet-Become-Human\Low\Bras_L.fbx)
+[2022.02.22-19.24.14:020][866]LogFbx: Loading FBX Scene from C:\Users\theni\OneDrive\Desktop\Projet-Become-Human\Low\Bras_L.fbx
+[2022.02.22-19.24.14:027][866]LogFbx: FBX Scene Loaded Succesfully
+[2022.02.22-19.24.14:028][866]LogFbx: Display: Triangulating static mesh Bras_L
+[2022.02.22-19.24.14:097][866]LogStaticMesh: Display: Building static mesh Bras_L...
+[2022.02.22-19.24.14:129][866]LogStaticMesh: Built static mesh [0.03s] /Game/Environnement/Bras_L.Bras_L
+[2022.02.22-19.24.14:146][866]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2022.02.22-19.24.14:178][866]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\theni\OneDrive\Desktop\Projet-Become-Human\Low\Mur de separation_L.fbx)
+[2022.02.22-19.24.14:186][866]LogFbx: Loading FBX Scene from C:\Users\theni\OneDrive\Desktop\Projet-Become-Human\Low\Mur de separation_L.fbx
+[2022.02.22-19.24.14:192][866]LogFbx: FBX Scene Loaded Succesfully
+[2022.02.22-19.24.14:193][866]LogFbx: Display: Triangulating static mesh Mur_de_separation_L
+[2022.02.22-19.24.14:202][866]LogStaticMesh: Display: Building static mesh Mur_de_separation_L...
+[2022.02.22-19.24.14:204][866]LogStaticMesh: Built static mesh [0.00s] /Game/Environnement/Mur_de_separation_L.Mur_de_separation_L
+[2022.02.22-19.24.14:213][866]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2022.02.22-19.24.14:294][866]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\theni\OneDrive\Desktop\Projet-Become-Human\Low\Pillar_L.fbx)
+[2022.02.22-19.24.14:303][866]LogFbx: Loading FBX Scene from C:\Users\theni\OneDrive\Desktop\Projet-Become-Human\Low\Pillar_L.fbx
+[2022.02.22-19.24.14:309][866]LogFbx: FBX Scene Loaded Succesfully
+[2022.02.22-19.24.14:309][866]LogFbx: Display: Triangulating static mesh Pillar3_L
+[2022.02.22-19.24.14:313][866]LogStaticMesh: Display: Building static mesh Pillar_L...
+[2022.02.22-19.24.14:315][866]LogStaticMesh: Built static mesh [0.00s] /Game/Environnement/Pillar_L.Pillar_L
+[2022.02.22-19.24.14:322][866]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2022.02.22-19.24.16:424][922]LogSlate: Window 'Message Log' being destroyed
+[2022.02.22-19.24.16:461][922]LogSlate: Window 'Message Log' being destroyed
+[2022.02.22-19.24.20:586][ 70]LogActorFactory: Actor Factory created Arche_L
+[2022.02.22-19.24.20:587][ 70]LogActorFactory: Actor Factory created Arche_L
+[2022.02.22-19.24.20:820][ 72]LogActorFactory: Actor Factory created Arche_L
+[2022.02.22-19.24.20:821][ 72]LogActorFactory: Actor Factory created Arche_L
+[2022.02.22-19.24.21:637][ 98]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.02.22-19.24.21:637][ 98]LogShaderCompilers: Display: Total job queries 3421, among them cache hits 2178 (63.67%)
+[2022.02.22-19.24.21:637][ 98]LogShaderCompilers: Display: Tracking 657 distinct input hashes that result in 364 distinct outputs (55.40%)
+[2022.02.22-19.24.21:637][ 98]LogShaderCompilers: Display: RAM used: 1.41 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.17%
+[2022.02.22-19.24.21:637][ 98]LogShaderCompilers: Display: ================================================
+[2022.02.22-19.24.30:048][430]LogActorFactory: Actor Factory created Bras_L
+[2022.02.22-19.24.30:049][430]LogActorFactory: Actor Factory created Bras_L
+[2022.02.22-19.24.30:315][437]LogActorFactory: Actor Factory created Bras_L
+[2022.02.22-19.24.30:316][437]LogActorFactory: Actor Factory created Bras_L
+[2022.02.22-19.24.56:643][505]LogActorFactory: Actor Factory created Mur_de_separation_L
+[2022.02.22-19.24.56:644][505]LogActorFactory: Actor Factory created Mur_de_separation_L
+[2022.02.22-19.24.56:913][509]LogActorFactory: Actor Factory created Mur_de_separation_L
+[2022.02.22-19.24.56:914][509]LogActorFactory: Actor Factory created Mur_de_separation_L
+[2022.02.22-19.25.16:106][276]LogActorFactory: Actor Factory created Pillar_L
+[2022.02.22-19.25.16:107][276]LogActorFactory: Actor Factory created Pillar_L
+[2022.02.22-19.25.16:371][284]LogActorFactory: Actor Factory created Pillar_L
+[2022.02.22-19.25.16:372][284]LogActorFactory: Actor Factory created Pillar_L
+[2022.02.22-19.25.23:729][596]LogActorFactory: Actor Factory created Plan_de_travail_L
+[2022.02.22-19.25.23:730][596]LogActorFactory: Actor Factory created Plan_de_travail_L
+[2022.02.22-19.25.23:980][604]LogActorFactory: Actor Factory created Plan_de_travail_L
+[2022.02.22-19.25.23:981][604]LogActorFactory: Actor Factory created Plan_de_travail_L
+[2022.02.22-19.25.33:315][988]LogActorFactory: Actor Factory created Poutre_L
+[2022.02.22-19.25.33:316][988]LogActorFactory: Actor Factory created Poutre_L
+[2022.02.22-19.25.33:689][  6]LogActorFactory: Actor Factory created Poutre_L
+[2022.02.22-19.25.33:690][  6]LogActorFactory: Actor Factory created Poutre_L
+[2022.02.22-19.25.40:598][348]LogActorFactory: Actor Factory created Poutre_L2
+[2022.02.22-19.25.40:599][348]LogActorFactory: Actor Factory created Poutre_L2
+[2022.02.22-19.25.40:833][359]LogActorFactory: Actor Factory created Poutre_L2
+[2022.02.22-19.25.40:833][359]LogActorFactory: Actor Factory created Poutre_L2
+[2022.02.22-19.25.48:327][708]LogActorFactory: Actor Factory created Tablette_L
+[2022.02.22-19.25.48:328][708]LogActorFactory: Actor Factory created Tablette_L
+[2022.02.22-19.25.48:624][720]LogActorFactory: Actor Factory created Tablette_L
+[2022.02.22-19.25.48:625][720]LogActorFactory: Actor Factory created Tablette_L
+[2022.02.22-19.25.53:661][959]LogActorFactory: Actor Factory created Tirroir_L
+[2022.02.22-19.25.53:662][959]LogActorFactory: Actor Factory created Tirroir_L
+[2022.02.22-19.25.53:904][969]LogActorFactory: Actor Factory created Tirroir_L
+[2022.02.22-19.25.53:905][969]LogActorFactory: Actor Factory created Tirroir_L
+[2022.02.22-19.26.13:773][922]Cmd: TRANSACTION UNDO
+[2022.02.22-19.26.13:773][922]LogEditorTransaction: Undo Create Actor
+[2022.02.22-19.26.25:236][464]Cmd: DELETE
+[2022.02.22-19.26.25:236][464]Cmd: ACTOR DELETE
+[2022.02.22-19.26.25:244][464]LogEditorActor: Deleted Actor: PlayerStart
+[2022.02.22-19.26.25:272][464]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2022.02.22-19.26.25:276][464]LogEditorActor: Deleted 1 Actors (0.039 secs)
+[2022.02.22-19.28.02:794][240]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/StarterContent/Materials/M_Basic_Wall.M_Basic_Wall
+[2022.02.22-19.28.02:797][240]LogMaterial: Display: Missing cached shadermap for Preview:M_Basic_Wall in PCD3D_SM5, Default, SM5 (DDC key hash: 5960B157EE77ED2BCF74694F5C19223917C50F42), compiling. 
+[2022.02.22-19.28.02:914][240]LogMaterial: Display: Missing cached shadermap for Preview:M_Basic_Wall in PCD3D_SM5, Default, SM5 (DDC key hash: 7CF995A658D10F9520FC245F03700EA11763253C), compiling. 
+[2022.02.22-19.28.02:920][240]LogMaterial: Display: Missing cached shadermap for Preview:M_Basic_Wall in PCD3D_SM5, Default, SM5 (DDC key hash: 33319C3C369B9DFB86837DC4DDFE7B9AB79BE545), compiling. 
+[2022.02.22-19.28.02:923][240]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_1 in PCD3D_SM5, Default, SM5 (DDC key hash: B570E1FC61F72E340ACDD20A7A9EEF8E62215CF1), compiling. 
+[2022.02.22-19.28.02:984][240]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.22-19.28.02:984][240]MaterialEditorStats: 
+[2022.02.22-19.28.02:984][240]MaterialEditorStats: Shader Count: 0
+[2022.02.22-19.28.09:246][401]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.02.22-19.28.09:247][401]LogShaderCompilers: Display: Total job queries 3451, among them cache hits 2178 (63.11%)
+[2022.02.22-19.28.09:247][401]LogShaderCompilers: Display: Tracking 687 distinct input hashes that result in 364 distinct outputs (52.98%)
+[2022.02.22-19.28.09:247][401]LogShaderCompilers: Display: RAM used: 1.41 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.17%
+[2022.02.22-19.28.09:247][401]LogShaderCompilers: Display: ================================================
+[2022.02.22-19.28.13:616][513]MaterialEditorStats: Texture samplers: 2/16
+[2022.02.22-19.28.13:616][513]MaterialEditorStats: 
+[2022.02.22-19.28.13:616][513]MaterialEditorStats: Shader Count: 2
+[2022.02.22-19.28.24:115][649]MaterialEditorStats: Base pass shader: 148 instructions
+[2022.02.22-19.28.24:115][649]MaterialEditorStats: Base pass shader with Surface Lightmap: 176 instructions
+[2022.02.22-19.28.24:115][649]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 222 instructions
+[2022.02.22-19.28.24:115][649]MaterialEditorStats: Base pass vertex shader: 107 instructions
+[2022.02.22-19.28.24:115][649]MaterialEditorStats: Texture samplers: 2/16
+[2022.02.22-19.28.24:115][649]MaterialEditorStats: 
+[2022.02.22-19.28.24:115][649]MaterialEditorStats: Shader Count: 14
+[2022.02.22-19.28.28:631][769]LogMaterial: Display: Missing cached shadermap for Preview:M_Basic_Wall in PCD3D_SM5, Default, SM5 (DDC key hash: B7776BEB437CA37249AC9BFD5552492F09550612), compiling. 
+[2022.02.22-19.28.28:636][769]LogMaterial: Display: Missing cached shadermap for Preview:M_Basic_Wall in PCD3D_SM5, Default, SM5 (DDC key hash: 124CEF5CC503F6088EF59AA01CF46044C0A4078C), compiling. 
+[2022.02.22-19.28.28:639][769]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.22-19.28.28:640][769]MaterialEditorStats: 
+[2022.02.22-19.28.28:640][769]MaterialEditorStats: Shader Count: 0
+[2022.02.22-19.28.28:682][771]MaterialEditorStats: Texture samplers: 2/16
+[2022.02.22-19.28.28:682][771]MaterialEditorStats: 
+[2022.02.22-19.28.28:682][771]MaterialEditorStats: Shader Count: 2
+[2022.02.22-19.28.28:716][772]MaterialEditorStats: Base pass shader: 148 instructions
+[2022.02.22-19.28.28:717][772]MaterialEditorStats: Base pass shader with Surface Lightmap: 176 instructions
+[2022.02.22-19.28.28:717][772]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 222 instructions
+[2022.02.22-19.28.28:717][772]MaterialEditorStats: Base pass vertex shader: 107 instructions
+[2022.02.22-19.28.28:717][772]MaterialEditorStats: Texture samplers: 2/16
+[2022.02.22-19.28.28:717][772]MaterialEditorStats: 
+[2022.02.22-19.28.28:717][772]MaterialEditorStats: Shader Count: 14
+[2022.02.22-19.28.38:404][101]LogMaterial: Display: Missing cached shadermap for Preview:M_Basic_Wall in PCD3D_SM5, Default, SM5 (DDC key hash: 43BB7AFFC671D6EDA1DA85D77D9697CCF1EBE051), compiling. 
+[2022.02.22-19.28.38:408][101]LogMaterial: Display: Missing cached shadermap for Preview:M_Basic_Wall in PCD3D_SM5, Default, SM5 (DDC key hash: EB5B14890521E92791CFFC35946D9C1E144653F3), compiling. 
+[2022.02.22-19.28.38:411][101]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.22-19.28.38:411][101]MaterialEditorStats: 
+[2022.02.22-19.28.38:411][101]MaterialEditorStats: Shader Count: 0
+[2022.02.22-19.28.38:453][103]MaterialEditorStats: Texture samplers: 2/16
+[2022.02.22-19.28.38:453][103]MaterialEditorStats: 
+[2022.02.22-19.28.38:453][103]MaterialEditorStats: Shader Count: 2
+[2022.02.22-19.28.38:482][104]MaterialEditorStats: Base pass shader: 148 instructions
+[2022.02.22-19.28.38:482][104]MaterialEditorStats: Base pass shader with Surface Lightmap: 176 instructions
+[2022.02.22-19.28.38:482][104]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 222 instructions
+[2022.02.22-19.28.38:482][104]MaterialEditorStats: Base pass vertex shader: 107 instructions
+[2022.02.22-19.28.38:482][104]MaterialEditorStats: Texture samplers: 2/16
+[2022.02.22-19.28.38:482][104]MaterialEditorStats: 
+[2022.02.22-19.28.38:482][104]MaterialEditorStats: Shader Count: 14
+[2022.02.22-19.28.44:097][238]LogSlate: Window 'Message' being destroyed
+[2022.02.22-19.28.44:102][238]Message dialog closed, result: Yes, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/StarterContent/Materials/M_Basic_Wall.M_Basic_Wall
+(Selecting 'No' will cause all changes to be lost!)
+[2022.02.22-19.28.44:655][238]LogMaterial: Display: Missing cached shadermap for Preview:M_Basic_Wall in PCD3D_SM5, Default, SM5 (DDC key hash: ED46A689D8980D02EA3640F241989D0444DCC82D), compiling. 
+[2022.02.22-19.28.44:704][238]LogMaterial: Display: Missing cached shadermap for M_Basic_Wall in PCD3D_SM5, Default, SM5 (DDC key hash: B2490D61B8513292A2BE2F30916395BF3A1B88FC), compiling. 
+[2022.02.22-19.28.44:850][238]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2022.02.22-19.28.56:539][238]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2022.02.22-19.28.56:569][238]LogSlate: Window 'M_Basic_Wall' being destroyed
+[2022.02.22-19.28.56:572][238]LogSlate: Window 'M_Basic_Wall' being destroyed
+[2022.02.22-19.28.56:656][238]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2022.02.22-19.28.56:656][238]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.22-19.29.09:490][729]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/StarterContent/Materials/M_Basic_Wall.M_Basic_Wall
+[2022.02.22-19.29.09:493][729]LogMaterial: Display: Missing cached shadermap for Preview:PreviewMaterial_1 in PCD3D_SM5, Default, SM5 (DDC key hash: A46A1994CA9F5BBC59A0D9B0B979128D6191F4A1), compiling. 
+[2022.02.22-19.29.09:636][729]LogMaterial: Display: Missing cached shadermap for Preview:PreviewMaterial_1 in PCD3D_SM5, Default, SM5 (DDC key hash: F7932186ABC20374BEFE73ED8227F0D498A91393), compiling. 
+[2022.02.22-19.29.09:642][729]LogMaterial: Display: Missing cached shadermap for Preview:PreviewMaterial_1 in PCD3D_SM5, Default, SM5 (DDC key hash: FAD1B3151EB23AAF77C7753A1604E86B0FAF9BC2), compiling. 
+[2022.02.22-19.29.09:646][729]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 3E940841E3BC7696832114080CD6F072188918BC), compiling. 
+[2022.02.22-19.29.09:699][729]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.22-19.29.09:699][729]MaterialEditorStats: 
+[2022.02.22-19.29.09:699][729]MaterialEditorStats: Shader Count: 0
+[2022.02.22-19.29.21:611][ 23]LogMaterial: Display: Missing cached shadermap for Preview:PreviewMaterial_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 6AEBD993775D3AF8669EFD6D1C2C7D078309B6BB), compiling. 
+[2022.02.22-19.29.21:619][ 23]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_1 in PCD3D_SM5, Default, SM5 (DDC key hash: B707BA37FB61D8FD714025145712A38DEB67B66C), compiling. 
+[2022.02.22-19.29.23:918][ 81]LogMaterial: Display: Missing cached shadermap for Preview:PreviewMaterial_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 33C6177018FF1BC01074A50821B0579D4E44C942), compiling. 
+[2022.02.22-19.29.23:923][ 81]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_1 in PCD3D_SM5, Default, SM5 (DDC key hash: D1BF4843EE13D917491D271ABA73D2C18A6696FE), compiling. 
+[2022.02.22-19.29.27:168][164]LogMaterial: Display: Missing cached shadermap for Preview:PreviewMaterial_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 6B56FA6CC750F0D584FEC7078AA22BD0F638E723), compiling. 
+[2022.02.22-19.29.27:173][164]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_1 in PCD3D_SM5, Default, SM5 (DDC key hash: DE755DF192E8E477F44E83F8161789D688711D71), compiling. 
+[2022.02.22-19.29.27:816][180]LogMaterial: Display: Missing cached shadermap for Preview:PreviewMaterial_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 51CDFE6CB532535BCCD06E1683EAE337490F72EB), compiling. 
+[2022.02.22-19.29.27:820][180]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 1A8557C8DDD40EC2A479C769BE9D89A547402065), compiling. 
+[2022.02.22-19.29.27:825][180]LogSlate: Window 'Color Picker' being destroyed
+[2022.02.22-19.29.30:249][204]LogSlate: Window 'Message' being destroyed
+[2022.02.22-19.29.30:256][204]Message dialog closed, result: Yes, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/StarterContent/Materials/M_Basic_Wall.M_Basic_Wall
+(Selecting 'No' will cause all changes to be lost!)
+[2022.02.22-19.29.30:857][204]LogMaterial: Display: Missing cached shadermap for Preview:PreviewMaterial_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 0F2496BF0F24614E930C3FC9F3D824AE4EB10A48), compiling. 
+[2022.02.22-19.29.30:916][204]LogMaterial: Display: Missing cached shadermap for M_Basic_Wall in PCD3D_SM5, Default, SM5 (DDC key hash: FC37533AB423807EF1F34516945DDE9063AE2A9F), compiling. 
+[2022.02.22-19.29.31:119][204]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2022.02.22-19.29.31:244][204]LogUObjectHash: Compacting FUObjectHashTables data took   3.20ms
+[2022.02.22-19.29.31:280][204]LogSlate: Window 'M_Basic_Wall' being destroyed
+[2022.02.22-19.29.31:283][204]LogSlate: Window 'M_Basic_Wall' being destroyed
+[2022.02.22-19.29.31:345][204]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2022.02.22-19.29.31:345][204]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.22-19.30.06:515][586]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/StarterContent/Materials/M_Basic_Wall.M_Basic_Wall
+[2022.02.22-19.30.06:518][586]LogMaterial: Display: Missing cached shadermap for Preview:PreviewMaterial_2 in PCD3D_SM5, Default, SM5 (DDC key hash: BDF06CA2F21D2DF44B762BBC9773FD0FA8AF9AF2), compiling. 
+[2022.02.22-19.30.06:669][586]LogMaterial: Display: Missing cached shadermap for Preview:PreviewMaterial_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 110EEDB1C322065609570D3E7188CE7FF9DB368D), compiling. 
+[2022.02.22-19.30.06:673][586]LogMaterial: Display: Missing cached shadermap for Preview:PreviewMaterial_2 in PCD3D_SM5, Default, SM5 (DDC key hash: FDE04ADADE75361FB53CD1F5EF3CD06C3D951549), compiling. 
+[2022.02.22-19.30.06:677][586]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 0BF2094C1C8BE13074281A6D45518EE334934148), compiling. 
+[2022.02.22-19.30.06:714][586]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.22-19.30.06:714][586]MaterialEditorStats: 
+[2022.02.22-19.30.06:714][586]MaterialEditorStats: Shader Count: 0
+[2022.02.22-19.30.12:698][728]LogSlate: Window 'Color Picker' being destroyed
+[2022.02.22-19.30.13:511][748]LogSlate: Window 'M_Basic_Wall' being destroyed
+[2022.02.22-19.30.13:553][748]LogSlate: Window 'M_Basic_Wall' being destroyed
+[2022.02.22-19.30.13:574][748]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2022.02.22-19.30.13:574][748]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.22-19.30.56:466][492]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/StarterContent/Materials/M_Basic_Wall.M_Basic_Wall
+[2022.02.22-19.30.56:468][492]LogMaterial: Display: Missing cached shadermap for Preview:PreviewMaterial_3 in PCD3D_SM5, Default, SM5 (DDC key hash: D414BF9C1D6A24D22887AAC716EB845408269370), compiling. 
+[2022.02.22-19.30.56:582][492]LogMaterial: Display: Missing cached shadermap for Preview:PreviewMaterial_3 in PCD3D_SM5, Default, SM5 (DDC key hash: F12B9D7E9A9B94477E76C911DA30BBDF22736920), compiling. 
+[2022.02.22-19.30.56:587][492]LogMaterial: Display: Missing cached shadermap for Preview:PreviewMaterial_3 in PCD3D_SM5, Default, SM5 (DDC key hash: 4B4A37FDA8F6EB1B24985F8CCFD4D9AEDC80C85E), compiling. 
+[2022.02.22-19.30.56:590][492]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_1 in PCD3D_SM5, Default, SM5 (DDC key hash: DECEE21B9C05E9169B768F9E2EAD90233EF4BF74), compiling. 
+[2022.02.22-19.30.56:635][492]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.22-19.30.56:636][492]MaterialEditorStats: 
+[2022.02.22-19.30.56:636][492]MaterialEditorStats: Shader Count: 0
+[2022.02.22-19.31.02:176][639]MaterialEditorStats: Texture samplers: 2/16
+[2022.02.22-19.31.02:176][639]MaterialEditorStats: 
+[2022.02.22-19.31.02:176][639]MaterialEditorStats: Shader Count: 1
+[2022.02.22-19.31.04:867][712]LogSlate: Window 'M_Basic_Wall' being destroyed
+[2022.02.22-19.31.04:920][712]LogSlate: Window 'M_Basic_Wall' being destroyed
+[2022.02.22-19.31.04:941][712]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2022.02.22-19.31.04:941][712]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.22-19.31.11:316][871]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2022.02.22-19.31.11:359][871]LogSavePackage: Moving 'C:/Users/theni/OneDrive/Desktop/Projet-Become-Human/BHProject/Saved/Minimal_Default_Auto8035E2BC8443C424ACBEC45AB05208A0D.tmp' to 'C:/Users/theni/OneDrive/Desktop/Projet-Become-Human/BHProject/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto8.umap'
+[2022.02.22-19.31.11:360][871]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Maps/Minimal_Default' took 0.056
+[2022.02.22-19.31.11:360][871]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.056
+[2022.02.22-19.31.11:360][871]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Environnement/Plan_de_travail_L] ([1] browsable assets)...
+[2022.02.22-19.31.11:371][871]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Environnement/Plan_de_travail_L.Plan_de_travail_L]
+[2022.02.22-19.31.11:371][871]OBJ SavePackage: Finished generating thumbnails for package [/Game/Environnement/Plan_de_travail_L]
+[2022.02.22-19.31.11:377][871]LogSavePackage: Moving 'C:/Users/theni/OneDrive/Desktop/Projet-Become-Human/BHProject/Saved/Plan_de_travail_L_Auto8906021144289E53236C2D1A1C40B12FD.tmp' to 'C:/Users/theni/OneDrive/Desktop/Projet-Become-Human/BHProject/Saved/Autosaves/Game/Environnement/Plan_de_travail_L_Auto8.uasset'
+[2022.02.22-19.31.11:379][871]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Environnement/Poutre_L] ([1] browsable assets)...
+[2022.02.22-19.31.11:388][871]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Environnement/Poutre_L.Poutre_L]
+[2022.02.22-19.31.11:388][871]OBJ SavePackage: Finished generating thumbnails for package [/Game/Environnement/Poutre_L]
+[2022.02.22-19.31.11:396][871]LogSavePackage: Moving 'C:/Users/theni/OneDrive/Desktop/Projet-Become-Human/BHProject/Saved/Poutre_L_Auto88F8D42424C33FC5BF3B7A9B193F4399B.tmp' to 'C:/Users/theni/OneDrive/Desktop/Projet-Become-Human/BHProject/Saved/Autosaves/Game/Environnement/Poutre_L_Auto8.uasset'
+[2022.02.22-19.31.11:397][871]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Environnement/Poutre_L2] ([1] browsable assets)...
+[2022.02.22-19.31.11:406][871]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Environnement/Poutre_L2.Poutre_L2]
+[2022.02.22-19.31.11:406][871]OBJ SavePackage: Finished generating thumbnails for package [/Game/Environnement/Poutre_L2]
+[2022.02.22-19.31.11:413][871]LogSavePackage: Moving 'C:/Users/theni/OneDrive/Desktop/Projet-Become-Human/BHProject/Saved/Poutre_L2_Auto8D5AAEB5A4FA097B5C39D3C9D58EA7BC3.tmp' to 'C:/Users/theni/OneDrive/Desktop/Projet-Become-Human/BHProject/Saved/Autosaves/Game/Environnement/Poutre_L2_Auto8.uasset'
+[2022.02.22-19.31.11:414][871]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Environnement/Tablette_L] ([1] browsable assets)...
+[2022.02.22-19.31.11:424][871]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Environnement/Tablette_L.Tablette_L]
+[2022.02.22-19.31.11:424][871]OBJ SavePackage: Finished generating thumbnails for package [/Game/Environnement/Tablette_L]
+[2022.02.22-19.31.11:431][871]LogSavePackage: Moving 'C:/Users/theni/OneDrive/Desktop/Projet-Become-Human/BHProject/Saved/Tablette_L_Auto885FF7D6A49C7F4F22819BCA89AF021F8.tmp' to 'C:/Users/theni/OneDrive/Desktop/Projet-Become-Human/BHProject/Saved/Autosaves/Game/Environnement/Tablette_L_Auto8.uasset'
+[2022.02.22-19.31.11:432][871]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Environnement/Tirroir_L] ([1] browsable assets)...
+[2022.02.22-19.31.11:441][871]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Environnement/Tirroir_L.Tirroir_L]
+[2022.02.22-19.31.11:441][871]OBJ SavePackage: Finished generating thumbnails for package [/Game/Environnement/Tirroir_L]
+[2022.02.22-19.31.11:450][871]LogSavePackage: Moving 'C:/Users/theni/OneDrive/Desktop/Projet-Become-Human/BHProject/Saved/Tirroir_L_Auto800B283C64B4143E4382766831F414123.tmp' to 'C:/Users/theni/OneDrive/Desktop/Projet-Become-Human/BHProject/Saved/Autosaves/Game/Environnement/Tirroir_L_Auto8.uasset'
+[2022.02.22-19.31.11:451][871]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Environnement/Arche_L] ([1] browsable assets)...
+[2022.02.22-19.31.11:460][871]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Environnement/Arche_L.Arche_L]
+[2022.02.22-19.31.11:461][871]OBJ SavePackage: Finished generating thumbnails for package [/Game/Environnement/Arche_L]
+[2022.02.22-19.31.11:467][871]LogSavePackage: Moving 'C:/Users/theni/OneDrive/Desktop/Projet-Become-Human/BHProject/Saved/Arche_L_Auto8A2F6FE234961784E9AE7569B7D152DCD.tmp' to 'C:/Users/theni/OneDrive/Desktop/Projet-Become-Human/BHProject/Saved/Autosaves/Game/Environnement/Arche_L_Auto8.uasset'
+[2022.02.22-19.31.11:468][871]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Environnement/Bras_L] ([1] browsable assets)...
+[2022.02.22-19.31.11:477][871]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Environnement/Bras_L.Bras_L]
+[2022.02.22-19.31.11:477][871]OBJ SavePackage: Finished generating thumbnails for package [/Game/Environnement/Bras_L]
+[2022.02.22-19.31.11:491][871]LogSavePackage: Moving 'C:/Users/theni/OneDrive/Desktop/Projet-Become-Human/BHProject/Saved/Bras_L_Auto88A646EF44AEFAF92DACCD2AA7DCDE68A.tmp' to 'C:/Users/theni/OneDrive/Desktop/Projet-Become-Human/BHProject/Saved/Autosaves/Game/Environnement/Bras_L_Auto8.uasset'
+[2022.02.22-19.31.11:492][871]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Environnement/Mur_de_separation_L] ([1] browsable assets)...
+[2022.02.22-19.31.11:501][871]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Environnement/Mur_de_separation_L.Mur_de_separation_L]
+[2022.02.22-19.31.11:501][871]OBJ SavePackage: Finished generating thumbnails for package [/Game/Environnement/Mur_de_separation_L]
+[2022.02.22-19.31.11:509][871]LogSavePackage: Moving 'C:/Users/theni/OneDrive/Desktop/Projet-Become-Human/BHProject/Saved/Mur_de_separation_L_Auto85AF0C3CB4559E7D239CEF189C3BBBE21.tmp' to 'C:/Users/theni/OneDrive/Desktop/Projet-Become-Human/BHProject/Saved/Autosaves/Game/Environnement/Mur_de_separation_L_Auto8.uasset'
+[2022.02.22-19.31.11:510][871]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Environnement/Pillar_L] ([1] browsable assets)...
+[2022.02.22-19.31.11:519][871]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Environnement/Pillar_L.Pillar_L]
+[2022.02.22-19.31.11:519][871]OBJ SavePackage: Finished generating thumbnails for package [/Game/Environnement/Pillar_L]
+[2022.02.22-19.31.11:525][871]LogSavePackage: Moving 'C:/Users/theni/OneDrive/Desktop/Projet-Become-Human/BHProject/Saved/Pillar_L_Auto8A54E33E641F311DCEF065FB7CF3C4DFB.tmp' to 'C:/Users/theni/OneDrive/Desktop/Projet-Become-Human/BHProject/Saved/Autosaves/Game/Environnement/Pillar_L_Auto8.uasset'
+[2022.02.22-19.31.11:527][871]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Materials/M_Basic_Wall] ([1] browsable assets)...
+[2022.02.22-19.31.11:535][871]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Materials/M_Basic_Wall.M_Basic_Wall]
+[2022.02.22-19.31.11:535][871]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Materials/M_Basic_Wall]
+[2022.02.22-19.31.11:540][871]LogSavePackage: Moving 'C:/Users/theni/OneDrive/Desktop/Projet-Become-Human/BHProject/Saved/M_Basic_Wall_Auto824CF7E9B499E6738989CC78A714A0999.tmp' to 'C:/Users/theni/OneDrive/Desktop/Projet-Become-Human/BHProject/Saved/Autosaves/Game/StarterContent/Materials/M_Basic_Wall_Auto8.uasset'
+[2022.02.22-19.31.11:541][871]LogFileHelpers: Auto-saving content packages took 0.180
+[2022.02.22-19.40.03:424][673]Cmd: TRANSACTION UNDO
+[2022.02.22-19.40.03:424][673]LogEditorTransaction: Undo Create Actors
+[2022.02.22-19.40.08:484][979]Cmd: TRANSACTION UNDO
+[2022.02.22-19.40.08:484][979]LogEditorTransaction: Undo Create Actors
+[2022.02.22-19.40.38:495][668]Cmd: TRANSACTION UNDO
+[2022.02.22-19.40.38:495][668]LogEditorTransaction: Undo Move Elements
+[2022.02.22-19.41.53:157][262]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2022.02.22-19.41.53:173][262]LogSavePackage: Moving 'C:/Users/theni/OneDrive/Desktop/Projet-Become-Human/BHProject/Saved/Minimal_Default_Auto98293D31C475DB9B30116ED895215F9AC.tmp' to 'C:/Users/theni/OneDrive/Desktop/Projet-Become-Human/BHProject/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto9.umap'
+[2022.02.22-19.41.53:174][262]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Maps/Minimal_Default' took 0.025
+[2022.02.22-19.41.53:174][262]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.025
+[2022.02.22-19.45.00:147][533]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.02.22-19.45.00:147][533]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.02.22-19.45.01:344][579]LogEditorFactories: Performing atomic reimport of [C:/Users/theni/OneDrive/Desktop/Projet-Become-Human/Low/Bras_L.fbx]
+[2022.02.22-19.45.01:388][579]LogFbx: Loading FBX Scene from C:/Users/theni/OneDrive/Desktop/Projet-Become-Human/Low/Bras_L.fbx
+[2022.02.22-19.45.01:394][579]LogFbx: FBX Scene Loaded Succesfully
+[2022.02.22-19.45.01:430][579]LogFbx: Display: Triangulating static mesh polySurface7
+[2022.02.22-19.45.01:506][579]LogStaticMesh: Display: Building static mesh Bras_L...
+[2022.02.22-19.45.01:564][579]LogStaticMesh: Built static mesh [0.06s] /Game/Environnement/Bras_L.Bras_L
+[2022.02.22-19.45.01:586][579]LogEditorFactories: -- imported successfully
+[2022.02.22-19.45.01:587][579]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2022.02.22-19.47.59:848][773]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.02.22-19.47.59:848][773]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.02.22-19.48.00:458][795]LogEditorFactories: Performing atomic reimport of [C:/Users/theni/OneDrive/Desktop/Projet-Become-Human/Low/Bras_L.fbx]
+[2022.02.22-19.48.00:490][795]LogFbx: Loading FBX Scene from C:/Users/theni/OneDrive/Desktop/Projet-Become-Human/Low/Bras_L.fbx
+[2022.02.22-19.48.00:496][795]LogFbx: FBX Scene Loaded Succesfully
+[2022.02.22-19.48.00:533][795]LogFbx: Display: Triangulating static mesh Bras_L
+[2022.02.22-19.48.00:601][795]LogStaticMesh: Display: Building static mesh Bras_L...
+[2022.02.22-19.48.00:657][795]LogStaticMesh: Built static mesh [0.06s] /Game/Environnement/Bras_L.Bras_L
+[2022.02.22-19.48.00:679][795]LogEditorFactories: -- imported successfully
+[2022.02.22-19.48.00:680][795]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2022.02.22-19.48.16:672][754]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Materials/Wall_Paper/Victorian_Pattern/Wall_Paper_Inst.Wall_Paper_Inst
+[2022.02.22-19.48.22:847][ 74]LogSlate: Window 'Wall_Paper_Inst' being destroyed
+[2022.02.22-19.48.22:876][ 74]LogSlate: Window 'Wall_Paper_Inst' being destroyed
+[2022.02.22-19.48.22:904][ 74]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2022.02.22-19.48.22:904][ 74]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.22-19.48.45:800][445]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Materials/Wall_Paper/Victorian_Pattern/Wall_Paper.Wall_Paper
+[2022.02.22-19.48.45:815][445]LogMaterial: Display: Missing cached shadermap for Preview:Wall_Paper in PCD3D_SM5, Default, SM5 (DDC key hash: A46860C887CE3E1A7509D5F9C360779F1CAE9269), compiling. 
+[2022.02.22-19.48.45:857][445]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.02.22-19.48.45:858][445]LogShaderCompilers: Display: Total job queries 3808, among them cache hits 2338 (61.40%)
+[2022.02.22-19.48.45:858][445]LogShaderCompilers: Display: Tracking 775 distinct input hashes that result in 393 distinct outputs (50.71%)
+[2022.02.22-19.48.45:858][445]LogShaderCompilers: Display: RAM used: 1.59 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.19%
+[2022.02.22-19.48.45:858][445]LogShaderCompilers: Display: ================================================
+[2022.02.22-19.48.45:930][445]LogMaterial: Display: Missing cached shadermap for Preview:Wall_Paper in PCD3D_SM5, Default, SM5 (DDC key hash: CD9218F2D93FC010A71E3783018092C995514D49), compiling. 
+[2022.02.22-19.48.45:934][445]LogMaterial: Display: Missing cached shadermap for Preview:Wall_Paper in PCD3D_SM5, Default, SM5 (DDC key hash: 5FC54D794CE7EB50C916B323D911743A0D3D462A), compiling. 
+[2022.02.22-19.48.45:937][445]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 46192FDE6B67FBFDD2CE1BFDB05363385F4860B6), compiling. 
+[2022.02.22-19.48.45:939][445]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_6 in PCD3D_SM5, Default, SM5 (DDC key hash: A77C2BD88EF66DF701AF4FBEDD1B285FDB75B49B), compiling. 
+[2022.02.22-19.48.45:940][445]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_5 in PCD3D_SM5, Default, SM5 (DDC key hash: C5DBB9A0141699979D11ABD965DDB9C8ACA5A0E2), compiling. 
+[2022.02.22-19.48.45:943][445]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_3 in PCD3D_SM5, Default, SM5 (DDC key hash: 2BC8A960A3036A1C7F4D4ECC97DBF3CB66DC01ED), compiling. 
+[2022.02.22-19.48.45:945][445]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: E4E01AFA050230523A40B86F0891A0A0E738DE7E), compiling. 
+[2022.02.22-19.48.45:969][445]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.22-19.48.45:970][445]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(4)
+[2022.02.22-19.48.45:970][445]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.22-19.48.45:970][445]MaterialEditorStats: 
+[2022.02.22-19.48.45:970][445]MaterialEditorStats: Shader Count: 0
+[2022.02.22-19.48.46:208][447]MaterialEditorStats: Base pass shader: 157 instructions
+[2022.02.22-19.48.46:208][447]MaterialEditorStats: Base pass shader with Surface Lightmap: 189 instructions
+[2022.02.22-19.48.46:208][447]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 235 instructions
+[2022.02.22-19.48.46:208][447]MaterialEditorStats: Base pass vertex shader: 115 instructions
+[2022.02.22-19.48.46:208][447]MaterialEditorStats: Texture samplers: 6/16
+[2022.02.22-19.48.46:208][447]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(4)
+[2022.02.22-19.48.46:208][447]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.22-19.48.46:208][447]MaterialEditorStats: 
+[2022.02.22-19.48.46:208][447]MaterialEditorStats: Shader Count: 27
+[2022.02.22-19.48.55:323][860]LogSlate: Window 'Wall_Paper' being destroyed
+[2022.02.22-19.48.55:350][860]LogSlate: Window 'Wall_Paper' being destroyed
+[2022.02.22-19.48.55:362][860]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2022.02.22-19.48.55:362][860]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.22-19.48.59:271][ 88]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/StarterContent/Materials/M_Ceramic_Tile_Checker.M_Ceramic_Tile_Checker
+[2022.02.22-19.48.59:273][ 88]LogMaterial: Display: Missing cached shadermap for Preview:M_Ceramic_Tile_Checker in PCD3D_SM5, Default, SM5 (DDC key hash: 8B48CB9C159097D2BAB55FCE2F0ECA3D0B9A5A27), compiling. 
+[2022.02.22-19.48.59:361][ 88]LogMaterial: Display: Missing cached shadermap for Preview:M_Ceramic_Tile_Checker in PCD3D_SM5, Default, SM5 (DDC key hash: 64FFD24535E6587AF61CB7415F15EADD90B46F2F), compiling. 
+[2022.02.22-19.48.59:375][ 88]LogMaterial: Display: Missing cached shadermap for Preview:M_Ceramic_Tile_Checker in PCD3D_SM5, Default, SM5 (DDC key hash: ACFCC694231B060AA968258A480EED4E57D64046), compiling. 
+[2022.02.22-19.48.59:379][ 88]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_51 in PCD3D_SM5, Default, SM5 (DDC key hash: 179ADF06AE03E2DF79A7536A01168A74F0B5A2F1), compiling. 
+[2022.02.22-19.48.59:381][ 88]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_50 in PCD3D_SM5, Default, SM5 (DDC key hash: C266D29A551507C590E9E64F07F8C9B38E32A21A), compiling. 
+[2022.02.22-19.48.59:382][ 88]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_52 in PCD3D_SM5, Default, SM5 (DDC key hash: 938B7883DC93C90B17F0245055CD75387BE148DD), compiling. 
+[2022.02.22-19.48.59:384][ 88]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_1 in PCD3D_SM5, Default, SM5 (DDC key hash: D77EDABDFBF30FE9E0C9DB2979D8FBD560CFC0C7), compiling. 
+[2022.02.22-19.48.59:387][ 88]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 99B5633C02C277A2744BA6433DFE62EF71A4630C), compiling. 
+[2022.02.22-19.48.59:388][ 88]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_4 in PCD3D_SM5, Default, SM5 (DDC key hash: 851FE1AB432CB0E3380C2CB6318C13D5B2427D39), compiling. 
+[2022.02.22-19.48.59:413][ 88]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.22-19.48.59:413][ 88]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2022.02.22-19.48.59:413][ 88]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.22-19.48.59:413][ 88]MaterialEditorStats: 
+[2022.02.22-19.48.59:413][ 88]MaterialEditorStats: Shader Count: 0
+[2022.02.22-19.49.04:349][224]MaterialEditorStats: Texture samplers: 6/16
+[2022.02.22-19.49.04:349][224]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2022.02.22-19.49.04:349][224]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.22-19.49.04:349][224]MaterialEditorStats: 
+[2022.02.22-19.49.04:349][224]MaterialEditorStats: Shader Count: 1
+[2022.02.22-19.49.16:470][568]MaterialEditorStats: Base pass shader: 167 instructions
+[2022.02.22-19.49.16:470][568]MaterialEditorStats: Base pass shader with Surface Lightmap: 195 instructions
+[2022.02.22-19.49.16:470][568]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 241 instructions
+[2022.02.22-19.49.16:470][568]MaterialEditorStats: Base pass vertex shader: 111 instructions
+[2022.02.22-19.49.16:470][568]MaterialEditorStats: Texture samplers: 6/16
+[2022.02.22-19.49.16:470][568]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2022.02.22-19.49.16:470][568]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.22-19.49.16:470][568]MaterialEditorStats: 
+[2022.02.22-19.49.16:470][568]MaterialEditorStats: Shader Count: 14
+[2022.02.22-19.49.36:119][378]LogUObjectHash: Warning: Ambiguous path search, could be MaterialGraphNode /Engine/Transient.Wall_Paper:MaterialGraph_0.MaterialGraphNode_5 or MaterialGraphNode /Engine/Transient.M_Ceramic_Tile_Checker:MaterialGraph_0.MaterialGraphNode_5
+[2022.02.22-19.49.36:122][378]LogProperty: Warning: ObjectPtrProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionScalarParameter'"MaterialGraphNode_5.MaterialExpressionScalarParameter_0"')'
+[2022.02.22-19.49.36:122][378]LogUObjectHash: Warning: Ambiguous path search, could be MaterialGraphNode /Engine/Transient.Wall_Paper:MaterialGraph_0.MaterialGraphNode_6 or MaterialGraphNode /Engine/Transient.M_Ceramic_Tile_Checker:MaterialGraph_0.MaterialGraphNode_6
+[2022.02.22-19.49.36:122][378]LogProperty: Warning: ObjectPtrProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionScalarParameter'"MaterialGraphNode_6.MaterialExpressionScalarParameter_1"')'
+[2022.02.22-19.49.36:122][378]LogUObjectHash: Warning: Ambiguous path search, could be MaterialGraphNode /Engine/Transient.Wall_Paper:MaterialGraph_0.MaterialGraphNode_9 or MaterialGraphNode /Engine/Transient.M_Ceramic_Tile_Checker:MaterialGraph_0.MaterialGraphNode_9
+[2022.02.22-19.49.36:122][378]LogProperty: Warning: ObjectPtrProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionTextureCoordinate'"MaterialGraphNode_9.MaterialExpressionTextureCoordinate_0"')'
+[2022.02.22-19.49.36:122][378]LogUObjectHash: Warning: Ambiguous path search, could be MaterialGraphNode /Engine/Transient.Wall_Paper:MaterialGraph_0.MaterialGraphNode_7 or MaterialGraphNode /Engine/Transient.M_Ceramic_Tile_Checker:MaterialGraph_0.MaterialGraphNode_7
+[2022.02.22-19.49.36:123][378]LogProperty: Warning: ObjectPtrProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionAppendVector'"MaterialGraphNode_7.MaterialExpressionAppendVector_0"')'
+[2022.02.22-19.49.36:131][378]LogMaterial: Display: Missing cached shadermap for Preview:M_Ceramic_Tile_Checker in PCD3D_SM5, Default, SM5 (DDC key hash: F0CE151DC33611EB9A067FF6A459D203B7B3A5B8), compiling. 
+[2022.02.22-19.49.36:136][378]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.22-19.49.36:136][378]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2022.02.22-19.49.36:136][378]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.22-19.49.36:136][378]MaterialEditorStats: 
+[2022.02.22-19.49.36:136][378]MaterialEditorStats: Shader Count: 0
+[2022.02.22-19.49.36:193][380]MaterialEditorStats: Base pass shader: 167 instructions
+[2022.02.22-19.49.36:193][380]MaterialEditorStats: Base pass shader with Surface Lightmap: 195 instructions
+[2022.02.22-19.49.36:193][380]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 241 instructions
+[2022.02.22-19.49.36:193][380]MaterialEditorStats: Base pass vertex shader: 111 instructions
+[2022.02.22-19.49.36:193][380]MaterialEditorStats: Texture samplers: 6/16
+[2022.02.22-19.49.36:194][380]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2022.02.22-19.49.36:194][380]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.22-19.49.36:194][380]MaterialEditorStats: 
+[2022.02.22-19.49.36:194][380]MaterialEditorStats: Shader Count: 14
+[2022.02.22-19.49.47:835][840]LogMaterial: Display: Missing cached shadermap for Preview:M_Ceramic_Tile_Checker in PCD3D_SM5, Default, SM5 (DDC key hash: 7DEEDD5D2B3F9852CAA270AC3BAF20C1E6DC5C86), compiling. 
+[2022.02.22-19.49.47:838][840]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_52 in PCD3D_SM5, Default, SM5 (DDC key hash: 06828F6D7520C6847FBA3502777635CA4D99C19D), compiling. 
+[2022.02.22-19.49.47:843][840]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.22-19.49.47:843][840]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2022.02.22-19.49.47:843][840]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.22-19.49.47:843][840]MaterialEditorStats: 
+[2022.02.22-19.49.47:843][840]MaterialEditorStats: Shader Count: 0
+[2022.02.22-19.49.51:589][948]MaterialEditorStats: Texture samplers: 6/16
+[2022.02.22-19.49.51:590][948]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2022.02.22-19.49.51:590][948]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.22-19.49.51:590][948]MaterialEditorStats: 
+[2022.02.22-19.49.51:590][948]MaterialEditorStats: Shader Count: 1
+[2022.02.22-19.49.56:882][ 92]LogMaterial: Display: Missing cached shadermap for Preview:M_Ceramic_Tile_Checker in PCD3D_SM5, Default, SM5 (DDC key hash: 30CC619BB7A424BBA1DB1FEAEEF78E6BC1C1C7E2), compiling. 
+[2022.02.22-19.49.56:887][ 92]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_50 in PCD3D_SM5, Default, SM5 (DDC key hash: 813CD771701D2423D251AE6F94E187274F5A67AE), compiling. 
+[2022.02.22-19.49.56:897][ 92]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.22-19.49.56:897][ 92]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2022.02.22-19.49.56:897][ 92]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.22-19.49.56:897][ 92]MaterialEditorStats: 
+[2022.02.22-19.49.56:897][ 92]MaterialEditorStats: Shader Count: 0
+[2022.02.22-19.50.05:593][345]MaterialEditorStats: Texture samplers: 6/16
+[2022.02.22-19.50.05:593][345]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2022.02.22-19.50.05:593][345]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.22-19.50.05:593][345]MaterialEditorStats: 
+[2022.02.22-19.50.05:593][345]MaterialEditorStats: Shader Count: 1
+[2022.02.22-19.50.13:921][575]LogMaterial: Display: Missing cached shadermap for Preview:M_Ceramic_Tile_Checker in PCD3D_SM5, Default, SM5 (DDC key hash: 26239B392839C0C05A6D9D8DAAF5C91EC3AE5E83), compiling. 
+[2022.02.22-19.50.13:926][575]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_51 in PCD3D_SM5, Default, SM5 (DDC key hash: 86B7A33FD4291EE7165F82BF948E89A104487106), compiling. 
+[2022.02.22-19.50.13:937][575]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.22-19.50.13:937][575]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2022.02.22-19.50.13:937][575]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.22-19.50.13:937][575]MaterialEditorStats: 
+[2022.02.22-19.50.13:937][575]MaterialEditorStats: Shader Count: 0
+[2022.02.22-19.50.17:547][678]MaterialEditorStats: Texture samplers: 6/16
+[2022.02.22-19.50.17:547][678]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2022.02.22-19.50.17:547][678]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.22-19.50.17:547][678]MaterialEditorStats: 
+[2022.02.22-19.50.17:547][678]MaterialEditorStats: Shader Count: 1
+[2022.02.22-19.50.25:285][849]LogSlate: Window 'Message' being destroyed
+[2022.02.22-19.50.25:294][849]Message dialog closed, result: Yes, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/StarterContent/Materials/M_Ceramic_Tile_Checker.M_Ceramic_Tile_Checker
+(Selecting 'No' will cause all changes to be lost!)
+[2022.02.22-19.50.25:877][849]LogMaterial: Display: Missing cached shadermap for Preview:M_Ceramic_Tile_Checker in PCD3D_SM5, Default, SM5 (DDC key hash: FA409CEE943C35842FA29B648E4AF55517383A3F), compiling. 
+[2022.02.22-19.50.25:931][849]LogMaterial: Display: Missing cached shadermap for M_Ceramic_Tile_Checker in PCD3D_SM5, Default, SM5 (DDC key hash: 62C6CBDB66CC2265FAB33C88830E0DCFE01113B8), compiling. 
+[2022.02.22-19.50.26:144][849]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2022.02.22-19.50.28:108][849]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
+[2022.02.22-19.50.28:127][849]LogSlate: Window 'M_Ceramic_Tile_Checker' being destroyed
+[2022.02.22-19.50.28:131][849]LogSlate: Window 'M_Ceramic_Tile_Checker' being destroyed
+[2022.02.22-19.50.28:154][849]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2022.02.22-19.50.28:155][849]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.22-19.50.43:802][428]LogContentBrowser: Deferred new asset file creation: M_Ceramic_Tile_Checker_Inst
+[2022.02.22-19.50.43:849][428]LogContentBrowser: Creating deferred item: M_Ceramic_Tile_Checker_Inst
+[2022.02.22-19.50.45:745][497]LogContentBrowser: Attempting asset rename: M_Ceramic_Tile_Checker_Inst -> M_Ceramic_Tile_Checker_Inst
+[2022.02.22-19.50.45:746][497]LogContentBrowser: End creating deferred item M_Ceramic_Tile_Checker_Inst
+[2022.02.22-19.50.50:741][717]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/StarterContent/Materials/M_Ceramic_Tile_Checker_Inst.M_Ceramic_Tile_Checker_Inst
+[2022.02.22-19.50.59:534][998]LogSlate: Window 'M_Ceramic_Tile_Checker_Inst' being destroyed
+[2022.02.22-19.50.59:546][998]LogSlate: Window 'M_Ceramic_Tile_Checker_Inst' being destroyed
+[2022.02.22-19.50.59:558][998]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2022.02.22-19.50.59:615][998]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2022.02.22-19.50.59:664][998]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2022.02.22-19.50.59:664][998]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.22-19.51.45:382][941]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2022.02.22-19.51.45:399][941]LogSavePackage: Moving 'C:/Users/theni/OneDrive/Desktop/Projet-Become-Human/BHProject/Saved/Minimal_Default1D6DB3F246B3EB4A23EA359D688A8198.tmp' to 'C:/Users/theni/OneDrive/Desktop/Projet-Become-Human/BHProject/Content/StarterContent/Maps/Minimal_Default.umap'
+[2022.02.22-19.51.45:404][941]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/StarterContent/Maps/Minimal_Default_BuiltData
+[2022.02.22-19.51.45:456][941]LogSavePackage: Moving 'C:/Users/theni/OneDrive/Desktop/Projet-Become-Human/BHProject/Saved/Minimal_Default_BuiltData3A255BD64172892F27EDD3822DA93283.tmp' to 'C:/Users/theni/OneDrive/Desktop/Projet-Become-Human/BHProject/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2022.02.22-19.51.45:458][941]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/StarterContent/Maps/Minimal_Default_BuiltData
+[2022.02.22-19.51.45:471][941]AssetCheck: New page: Asset Save: multiple assets
+[2022.02.22-19.51.45:471][941]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2022.02.22-19.51.45:472][941]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2022.02.22-19.51.46:149][964]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.02.22-19.51.46:162][964]LogSavePackage: Moving 'C:/Users/theni/OneDrive/Desktop/Projet-Become-Human/BHProject/Saved/Minimal_Default4C625A5345321829659FB0A5037AEDBF.tmp' to 'C:/Users/theni/OneDrive/Desktop/Projet-Become-Human/BHProject/Content/StarterContent/Maps/Minimal_Default.umap'
+[2022.02.22-19.51.46:166][964]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/StarterContent/Maps/Minimal_Default_BuiltData
+[2022.02.22-19.51.46:207][964]LogSavePackage: Moving 'C:/Users/theni/OneDrive/Desktop/Projet-Become-Human/BHProject/Saved/Minimal_Default_BuiltData6E47467543E1A9840305EA8037FEB36B.tmp' to 'C:/Users/theni/OneDrive/Desktop/Projet-Become-Human/BHProject/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2022.02.22-19.51.46:208][964]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/StarterContent/Maps/Minimal_Default_BuiltData
+[2022.02.22-19.51.46:220][964]AssetCheck: New page: Asset Save: multiple assets
+[2022.02.22-19.51.46:220][964]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2022.02.22-19.51.46:220][964]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2022.02.22-19.51.48:540][108]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.02.22-19.51.56:716][108]LogSlate: Window 'Save Content' being destroyed
+[2022.02.22-19.51.56:775][108]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Environnement/Arche_L" FILE="C:/Users/theni/OneDrive/Desktop/Projet-Become-Human/BHProject/Content/Environnement/Arche_L.uasset" SILENT=true
+[2022.02.22-19.51.56:780][108]LogSavePackage: Moving 'C:/Users/theni/OneDrive/Desktop/Projet-Become-Human/BHProject/Saved/Arche_L78B0E1A046CFE8C6392E589D2A41FFF6.tmp' to 'C:/Users/theni/OneDrive/Desktop/Projet-Become-Human/BHProject/Content/Environnement/Arche_L.uasset'
+[2022.02.22-19.51.56:799][108]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Environnement/Bras_L" FILE="C:/Users/theni/OneDrive/Desktop/Projet-Become-Human/BHProject/Content/Environnement/Bras_L.uasset" SILENT=true
+[2022.02.22-19.51.56:815][108]LogSavePackage: Moving 'C:/Users/theni/OneDrive/Desktop/Projet-Become-Human/BHProject/Saved/Bras_L84AADB274052C9591E9A5685C50546C2.tmp' to 'C:/Users/theni/OneDrive/Desktop/Projet-Become-Human/BHProject/Content/Environnement/Bras_L.uasset'
+[2022.02.22-19.51.56:832][108]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/lambert1" FILE="C:/Users/theni/OneDrive/Desktop/Projet-Become-Human/BHProject/Content/lambert1.uasset" SILENT=true
+[2022.02.22-19.51.56:836][108]LogSavePackage: Moving 'C:/Users/theni/OneDrive/Desktop/Projet-Become-Human/BHProject/Saved/lambert14F47C6224D03A9C48C4A269D8239C42C.tmp' to 'C:/Users/theni/OneDrive/Desktop/Projet-Become-Human/BHProject/Content/lambert1.uasset'
+[2022.02.22-19.51.56:849][108]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Environnement/lambert1" FILE="C:/Users/theni/OneDrive/Desktop/Projet-Become-Human/BHProject/Content/Environnement/lambert1.uasset" SILENT=true
+[2022.02.22-19.51.56:853][108]LogSavePackage: Moving 'C:/Users/theni/OneDrive/Desktop/Projet-Become-Human/BHProject/Saved/lambert1B92E923A4BDE03B7019F44A2D6847ECF.tmp' to 'C:/Users/theni/OneDrive/Desktop/Projet-Become-Human/BHProject/Content/Environnement/lambert1.uasset'
+[2022.02.22-19.51.56:867][108]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Environnement/lambert9" FILE="C:/Users/theni/OneDrive/Desktop/Projet-Become-Human/BHProject/Content/Environnement/lambert9.uasset" SILENT=true
+[2022.02.22-19.51.56:872][108]LogSavePackage: Moving 'C:/Users/theni/OneDrive/Desktop/Projet-Become-Human/BHProject/Saved/lambert92820D0444DAF78C31AA7F78595415B3C.tmp' to 'C:/Users/theni/OneDrive/Desktop/Projet-Become-Human/BHProject/Content/Environnement/lambert9.uasset'
+[2022.02.22-19.51.56:877][108]LogSavePackage: Moving 'C:/Users/theni/OneDrive/Desktop/Projet-Become-Human/BHProject/Saved/M_Basic_WallA23722524E158A86BC3EF5A9B9C36365.tmp' to 'C:/Users/theni/OneDrive/Desktop/Projet-Become-Human/BHProject/Content/StarterContent/Materials/M_Basic_Wall.uasset'
+[2022.02.22-19.51.56:901][108]LogSavePackage: Moving 'C:/Users/theni/OneDrive/Desktop/Projet-Become-Human/BHProject/Saved/M_Ceramic_Tile_Checker8DC2CB1E4CFCC0A2013FCFA6220BE422.tmp' to 'C:/Users/theni/OneDrive/Desktop/Projet-Become-Human/BHProject/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset'
+[2022.02.22-19.51.56:921][108]LogSavePackage: Moving 'C:/Users/theni/OneDrive/Desktop/Projet-Become-Human/BHProject/Saved/M_Ceramic_Tile_Checker_Inst537BF7414A616C80C3D742A8D8A8945D.tmp' to 'C:/Users/theni/OneDrive/Desktop/Projet-Become-Human/BHProject/Content/StarterContent/Materials/M_Ceramic_Tile_Checker_Inst.uasset'
+[2022.02.22-19.51.56:922][108]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Environnement/Mur_de_separation_L" FILE="C:/Users/theni/OneDrive/Desktop/Projet-Become-Human/BHProject/Content/Environnement/Mur_de_separation_L.uasset" SILENT=true
+[2022.02.22-19.51.56:926][108]LogSavePackage: Moving 'C:/Users/theni/OneDrive/Desktop/Projet-Become-Human/BHProject/Saved/Mur_de_separation_LAAE9CAE04F98E56A88B111960D803957.tmp' to 'C:/Users/theni/OneDrive/Desktop/Projet-Become-Human/BHProject/Content/Environnement/Mur_de_separation_L.uasset'
+[2022.02.22-19.51.56:927][108]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Environnement/Murs" FILE="C:/Users/theni/OneDrive/Desktop/Projet-Become-Human/BHProject/Content/Environnement/Murs.uasset" SILENT=true
+[2022.02.22-19.51.56:941][108]LogSavePackage: Moving 'C:/Users/theni/OneDrive/Desktop/Projet-Become-Human/BHProject/Saved/Murs89475A284952910458326E8B2D1F96D7.tmp' to 'C:/Users/theni/OneDrive/Desktop/Projet-Become-Human/BHProject/Content/Environnement/Murs.uasset'
+[2022.02.22-19.51.56:942][108]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Environnement/Pillar_L" FILE="C:/Users/theni/OneDrive/Desktop/Projet-Become-Human/BHProject/Content/Environnement/Pillar_L.uasset" SILENT=true
+[2022.02.22-19.51.56:944][108]LogSavePackage: Moving 'C:/Users/theni/OneDrive/Desktop/Projet-Become-Human/BHProject/Saved/Pillar_L1933BAA6411AB0616A54FFB7A206BE9F.tmp' to 'C:/Users/theni/OneDrive/Desktop/Projet-Become-Human/BHProject/Content/Environnement/Pillar_L.uasset'
+[2022.02.22-19.51.56:946][108]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Environnement/Plafond_L" FILE="C:/Users/theni/OneDrive/Desktop/Projet-Become-Human/BHProject/Content/Environnement/Plafond_L.uasset" SILENT=true
+[2022.02.22-19.51.56:950][108]LogSavePackage: Moving 'C:/Users/theni/OneDrive/Desktop/Projet-Become-Human/BHProject/Saved/Plafond_LD6D28C3F4DC050348A3D8F99C1869F6B.tmp' to 'C:/Users/theni/OneDrive/Desktop/Projet-Become-Human/BHProject/Content/Environnement/Plafond_L.uasset'
+[2022.02.22-19.51.56:951][108]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Environnement/Plan_de_travail_L" FILE="C:/Users/theni/OneDrive/Desktop/Projet-Become-Human/BHProject/Content/Environnement/Plan_de_travail_L.uasset" SILENT=true
+[2022.02.22-19.51.56:956][108]LogSavePackage: Moving 'C:/Users/theni/OneDrive/Desktop/Projet-Become-Human/BHProject/Saved/Plan_de_travail_L43414C00417448ED7CA1669B237C78AC.tmp' to 'C:/Users/theni/OneDrive/Desktop/Projet-Become-Human/BHProject/Content/Environnement/Plan_de_travail_L.uasset'
+[2022.02.22-19.51.56:958][108]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Environnement/Poutre_L" FILE="C:/Users/theni/OneDrive/Desktop/Projet-Become-Human/BHProject/Content/Environnement/Poutre_L.uasset" SILENT=true
+[2022.02.22-19.51.56:964][108]LogSavePackage: Moving 'C:/Users/theni/OneDrive/Desktop/Projet-Become-Human/BHProject/Saved/Poutre_L43FEFD4D43895A601D1EA8B22EDD1FDD.tmp' to 'C:/Users/theni/OneDrive/Desktop/Projet-Become-Human/BHProject/Content/Environnement/Poutre_L.uasset'
+[2022.02.22-19.51.56:965][108]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Environnement/Poutre_L2" FILE="C:/Users/theni/OneDrive/Desktop/Projet-Become-Human/BHProject/Content/Environnement/Poutre_L2.uasset" SILENT=true
+[2022.02.22-19.51.56:972][108]LogSavePackage: Moving 'C:/Users/theni/OneDrive/Desktop/Projet-Become-Human/BHProject/Saved/Poutre_L2BF125F1644F814F722146F9F85928E0E.tmp' to 'C:/Users/theni/OneDrive/Desktop/Projet-Become-Human/BHProject/Content/Environnement/Poutre_L2.uasset'
+[2022.02.22-19.51.56:973][108]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Environnement/Sol_L" FILE="C:/Users/theni/OneDrive/Desktop/Projet-Become-Human/BHProject/Content/Environnement/Sol_L.uasset" SILENT=true
+[2022.02.22-19.51.56:978][108]LogSavePackage: Moving 'C:/Users/theni/OneDrive/Desktop/Projet-Become-Human/BHProject/Saved/Sol_L4BBC95174D3A571B974A49B33201AC47.tmp' to 'C:/Users/theni/OneDrive/Desktop/Projet-Become-Human/BHProject/Content/Environnement/Sol_L.uasset'
+[2022.02.22-19.51.57:067][108]LogSavePackage: Moving 'C:/Users/theni/OneDrive/Desktop/Projet-Become-Human/BHProject/Saved/Substance_graph_ambientocclusionF8B312574F85FEC7A50839BEC8F55933.tmp' to 'C:/Users/theni/OneDrive/Desktop/Projet-Become-Human/BHProject/Content/Materials/Wall_Paper/Victorian_Pattern/Substance_graph_ambientocclusion.uasset'
+[2022.02.22-19.51.57:309][108]LogSavePackage: Moving 'C:/Users/theni/OneDrive/Desktop/Projet-Become-Human/BHProject/Saved/Substance_graph_basecolorA2C21C9D4B491EC7F1F771B3DC3C3856.tmp' to 'C:/Users/theni/OneDrive/Desktop/Projet-Become-Human/BHProject/Content/Materials/Wall_Paper/Victorian_Pattern/Substance_graph_basecolor.uasset'
+[2022.02.22-19.51.57:320][108]LogSavePackage: Moving 'C:/Users/theni/OneDrive/Desktop/Projet-Become-Human/BHProject/Saved/Substance_graph_height51F29BC44329E4DFED64B8BB501A4E93.tmp' to 'C:/Users/theni/OneDrive/Desktop/Projet-Become-Human/BHProject/Content/Materials/Wall_Paper/Victorian_Pattern/Substance_graph_height.uasset'
+[2022.02.22-19.51.57:790][108]LogSavePackage: Moving 'C:/Users/theni/OneDrive/Desktop/Projet-Become-Human/BHProject/Saved/Substance_graph_normal9453A74C4DBC5A1B0BE1488FAF429859.tmp' to 'C:/Users/theni/OneDrive/Desktop/Projet-Become-Human/BHProject/Content/Materials/Wall_Paper/Victorian_Pattern/Substance_graph_normal.uasset'
+[2022.02.22-19.51.57:809][108]LogSavePackage: Moving 'C:/Users/theni/OneDrive/Desktop/Projet-Become-Human/BHProject/Saved/Substance_graph_roughnessC1F26B3C442B9546F4B61BB3891EB147.tmp' to 'C:/Users/theni/OneDrive/Desktop/Projet-Become-Human/BHProject/Content/Materials/Wall_Paper/Victorian_Pattern/Substance_graph_roughness.uasset'
+[2022.02.22-19.51.57:810][108]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Environnement/Tablette_L" FILE="C:/Users/theni/OneDrive/Desktop/Projet-Become-Human/BHProject/Content/Environnement/Tablette_L.uasset" SILENT=true
+[2022.02.22-19.51.57:814][108]LogSavePackage: Moving 'C:/Users/theni/OneDrive/Desktop/Projet-Become-Human/BHProject/Saved/Tablette_LEE40973E49B1209D2F6222A4268BD10D.tmp' to 'C:/Users/theni/OneDrive/Desktop/Projet-Become-Human/BHProject/Content/Environnement/Tablette_L.uasset'
+[2022.02.22-19.51.57:815][108]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Environnement/Tirroir_L" FILE="C:/Users/theni/OneDrive/Desktop/Projet-Become-Human/BHProject/Content/Environnement/Tirroir_L.uasset" SILENT=true
+[2022.02.22-19.51.57:821][108]LogSavePackage: Moving 'C:/Users/theni/OneDrive/Desktop/Projet-Become-Human/BHProject/Saved/Tirroir_L32AD743F4FBF9A9150D1D9B0476A379A.tmp' to 'C:/Users/theni/OneDrive/Desktop/Projet-Become-Human/BHProject/Content/Environnement/Tirroir_L.uasset'
+[2022.02.22-19.51.57:839][108]LogSavePackage: Moving 'C:/Users/theni/OneDrive/Desktop/Projet-Become-Human/BHProject/Saved/Wall_Paper_InstF18627C94ECF58F2D9BB7A8D1191A4CA.tmp' to 'C:/Users/theni/OneDrive/Desktop/Projet-Become-Human/BHProject/Content/Materials/Wall_Paper/Victorian_Pattern/Wall_Paper_Inst.uasset'
+[2022.02.22-19.51.57:847][108]LogStall: Shutdown...
+[2022.02.22-19.51.57:854][108]LogStall: Shutdown complete.
+[2022.02.22-19.51.57:898][108]LogSlate: Window 'World Outliner' being destroyed
+[2022.02.22-19.51.57:906][108]LogSlate: Window 'BHProject - Unreal Editor' being destroyed
+[2022.02.22-19.51.58:151][108]AssetCheck: New page: Asset Save: multiple assets
+[2022.02.22-19.51.58:152][108]LogContentValidation: Display: Validating Texture2D /Game/Materials/Wall_Paper/Victorian_Pattern/Substance_graph_roughness.Substance_graph_roughness
+[2022.02.22-19.51.58:152][108]LogContentValidation: Display: Validating Texture2D /Game/Materials/Wall_Paper/Victorian_Pattern/Substance_graph_normal.Substance_graph_normal
+[2022.02.22-19.51.58:152][108]LogContentValidation: Display: Validating Texture2D /Game/Materials/Wall_Paper/Victorian_Pattern/Substance_graph_height.Substance_graph_height
+[2022.02.22-19.51.58:152][108]LogContentValidation: Display: Validating Texture2D /Game/Materials/Wall_Paper/Victorian_Pattern/Substance_graph_basecolor.Substance_graph_basecolor
+[2022.02.22-19.51.58:152][108]LogContentValidation: Display: Validating StaticMesh /Game/Environnement/Murs.Murs
+[2022.02.22-19.51.58:152][108]LogContentValidation: Display: Validating Texture2D /Game/Materials/Wall_Paper/Victorian_Pattern/Substance_graph_ambientocclusion.Substance_graph_ambientocclusion
+[2022.02.22-19.51.58:152][108]LogContentValidation: Display: Validating Material /Game/lambert1.lambert1
+[2022.02.22-19.51.58:152][108]LogContentValidation: Display: Validating StaticMesh /Game/Environnement/Pillar_L.Pillar_L
+[2022.02.22-19.51.58:152][108]LogContentValidation: Display: Validating StaticMesh /Game/Environnement/Mur_de_separation_L.Mur_de_separation_L
+[2022.02.22-19.51.58:152][108]LogContentValidation: Display: Validating StaticMesh /Game/Environnement/Plafond_L.Plafond_L
+[2022.02.22-19.51.58:152][108]LogContentValidation: Display: Validating StaticMesh /Game/Environnement/Bras_L.Bras_L
+[2022.02.22-19.51.58:152][108]LogContentValidation: Display: Validating Material /Game/Environnement/lambert1.lambert1
+[2022.02.22-19.51.58:152][108]LogContentValidation: Display: Validating StaticMesh /Game/Environnement/Sol_L.Sol_L
+[2022.02.22-19.51.58:152][108]LogContentValidation: Display: Validating Material /Game/Environnement/lambert9.lambert9
+[2022.02.22-19.51.58:152][108]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Materials/Wall_Paper/Victorian_Pattern/Wall_Paper_Inst.Wall_Paper_Inst
+[2022.02.22-19.51.58:152][108]LogContentValidation: Display: Validating StaticMesh /Game/Environnement/Arche_L.Arche_L
+[2022.02.22-19.51.58:152][108]LogContentValidation: Display: Validating StaticMesh /Game/Environnement/Tirroir_L.Tirroir_L
+[2022.02.22-19.51.58:152][108]LogContentValidation: Display: Validating StaticMesh /Game/Environnement/Tablette_L.Tablette_L
+[2022.02.22-19.51.58:152][108]LogContentValidation: Display: Validating StaticMesh /Game/Environnement/Poutre_L2.Poutre_L2
+[2022.02.22-19.51.58:152][108]LogContentValidation: Display: Validating StaticMesh /Game/Environnement/Poutre_L.Poutre_L
+[2022.02.22-19.51.58:152][108]LogContentValidation: Display: Validating StaticMesh /Game/Environnement/Plan_de_travail_L.Plan_de_travail_L
+[2022.02.22-19.51.58:152][108]LogContentValidation: Display: Validating Material /Game/StarterContent/Materials/M_Basic_Wall.M_Basic_Wall
+[2022.02.22-19.51.58:152][108]LogContentValidation: Display: Validating Material /Game/StarterContent/Materials/M_Ceramic_Tile_Checker.M_Ceramic_Tile_Checker
+[2022.02.22-19.51.58:152][108]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/StarterContent/Materials/M_Ceramic_Tile_Checker_Inst.M_Ceramic_Tile_Checker_Inst
+[2022.02.22-19.51.58:153][109]Cmd: QUIT_EDITOR
+[2022.02.22-19.51.58:153][109]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2022.02.22-19.51.58:155][109]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2022.02.22-19.51.58:155][109]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2022.02.22-19.51.58:155][109]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2022.02.22-19.51.58:164][109]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2022.02.22-19.51.58:164][109]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2022.02.22-19.51.58:164][109]LogAudio: Display: Audio Device unregistered from world 'Minimal_Default'.
+[2022.02.22-19.51.58:164][109]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.22-19.51.58:166][109]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.22-19.51.58:175][109]LogAudio: Display: Audio Device Manager Shutdown
+[2022.02.22-19.51.58:176][109]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.02.22-19.51.58:181][109]LogExit: Preparing to exit.
+[2022.02.22-19.51.59:147][109]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2022.02.22-19.51.59:147][109]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2022.02.22-19.51.59:189][109]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2022.02.22-19.51.59:254][109]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.02.22-19.51.59:255][109]LogExit: Editor shut down
+[2022.02.22-19.51.59:257][109]LogExit: Transaction tracking system shut down
+[2022.02.22-19.51.59:657][109]LogExit: Object subsystem successfully closed.
+[2022.02.22-19.51.59:665][109]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.02.22-19.51.59:665][109]LogShaderCompilers: Display: Total job queries 4047, among them cache hits 2446 (60.44%)
+[2022.02.22-19.51.59:665][109]LogShaderCompilers: Display: Tracking 878 distinct input hashes that result in 458 distinct outputs (52.16%)
+[2022.02.22-19.51.59:665][109]LogShaderCompilers: Display: RAM used: 1.93 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.24%
+[2022.02.22-19.51.59:665][109]LogShaderCompilers: Display: ================================================
+[2022.02.22-19.51.59:677][109]LogShaderCompilers: Display: Shaders left to compile 0
+[2022.02.22-19.51.59:712][109]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (845)
+[2022.02.22-19.51.59:712][109]LogModuleManager: Shutting down and abandoning module Voice (843)
+[2022.02.22-19.51.59:725][109]LogModuleManager: Shutting down and abandoning module MaterialEditor (841)
+[2022.02.22-19.51.59:725][109]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (839)
+[2022.02.22-19.51.59:734][109]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (837)
+[2022.02.22-19.51.59:734][109]LogModuleManager: Shutting down and abandoning module AddContentDialog (835)
+[2022.02.22-19.51.59:735][109]LogModuleManager: Shutting down and abandoning module WidgetCarousel (834)
+[2022.02.22-19.51.59:735][109]LogModuleManager: Shutting down and abandoning module EditorWidgets (831)
+[2022.02.22-19.51.59:735][109]LogModuleManager: Shutting down and abandoning module SceneOutliner (829)
+[2022.02.22-19.51.59:735][109]LogModuleManager: Shutting down and abandoning module StatusBar (827)
+[2022.02.22-19.51.59:735][109]LogModuleManager: Shutting down and abandoning module StatsViewer (825)
+[2022.02.22-19.51.59:735][109]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (823)
+[2022.02.22-19.51.59:735][109]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (821)
+[2022.02.22-19.51.59:735][109]LogModuleManager: Shutting down and abandoning module AutomationWorker (819)
+[2022.02.22-19.51.59:735][109]LogModuleManager: Shutting down and abandoning module SteamVREditor (817)
+[2022.02.22-19.51.59:735][109]LogModuleManager: Shutting down and abandoning module OculusMR (815)
+[2022.02.22-19.51.59:735][109]LogModuleManager: Shutting down and abandoning module GooglePADEditor (813)
+[2022.02.22-19.51.59:735][109]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (811)
+[2022.02.22-19.51.59:735][109]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (809)
+[2022.02.22-19.51.59:735][109]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (807)
+[2022.02.22-19.51.59:735][109]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (805)
+[2022.02.22-19.51.59:735][109]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (803)
+[2022.02.22-19.51.59:735][109]LogModuleManager: Shutting down and abandoning module PlanarCut (801)
+[2022.02.22-19.51.59:735][109]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (799)
+[2022.02.22-19.51.59:735][109]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (797)
+[2022.02.22-19.51.59:735][109]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (795)
+[2022.02.22-19.51.59:735][109]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (793)
+[2022.02.22-19.51.59:735][109]LogModuleManager: Shutting down and abandoning module WebMMedia (791)
+[2022.02.22-19.51.59:735][109]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (789)
+[2022.02.22-19.51.59:736][109]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (787)
+[2022.02.22-19.51.59:736][109]LogModuleManager: Shutting down and abandoning module SequenceRecorder (786)
+[2022.02.22-19.51.59:736][109]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (783)
+[2022.02.22-19.51.59:736][109]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (781)
+[2022.02.22-19.51.59:736][109]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (779)
+[2022.02.22-19.51.59:736][109]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (777)
+[2022.02.22-19.51.59:736][109]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (775)
+[2022.02.22-19.51.59:736][109]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (773)
+[2022.02.22-19.51.59:736][109]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (771)
+[2022.02.22-19.51.59:736][109]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (769)
+[2022.02.22-19.51.59:736][109]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (767)
+[2022.02.22-19.51.59:736][109]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (765)
+[2022.02.22-19.51.59:736][109]LogModuleManager: Shutting down and abandoning module CharacterAI (763)
+[2022.02.22-19.51.59:736][109]LogModuleManager: Shutting down and abandoning module TextureAlignMode (761)
+[2022.02.22-19.51.59:736][109]LogModuleManager: Shutting down and abandoning module BspMode (759)
+[2022.02.22-19.51.59:736][109]LogModuleManager: Shutting down and abandoning module GeometryMode (757)
+[2022.02.22-19.51.59:736][109]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (755)
+[2022.02.22-19.51.59:736][109]LogModuleManager: Shutting down and abandoning module SmartSnapping (753)
+[2022.02.22-19.51.59:736][109]LogModuleManager: Shutting down and abandoning module SessionServices (751)
+[2022.02.22-19.51.59:736][109]LogModuleManager: Shutting down and abandoning module MeshPaint (749)
+[2022.02.22-19.51.59:737][109]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (747)
+[2022.02.22-19.51.59:737][109]LogModuleManager: Shutting down and abandoning module PlacementMode (746)
+[2022.02.22-19.51.59:737][109]LogModuleManager: Shutting down and abandoning module FoliageEdit (743)
+[2022.02.22-19.51.59:737][109]LogModuleManager: Shutting down and abandoning module LandscapeEditor (741)
+[2022.02.22-19.51.59:737][109]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (739)
+[2022.02.22-19.51.59:737][109]LogModuleManager: Shutting down and abandoning module ActorPickerMode (737)
+[2022.02.22-19.51.59:737][109]LogModuleManager: Shutting down and abandoning module ViewportSnapping (735)
+[2022.02.22-19.51.59:737][109]LogModuleManager: Shutting down and abandoning module ViewportInteraction (733)
+[2022.02.22-19.51.59:737][109]LogModuleManager: Shutting down and abandoning module ClothPainter (731)
+[2022.02.22-19.51.59:737][109]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (730)
+[2022.02.22-19.51.59:737][109]LogModuleManager: Shutting down and abandoning module LogVisualizer (727)
+[2022.02.22-19.51.59:737][109]LogModuleManager: Shutting down and abandoning module IntroTutorials (725)
+[2022.02.22-19.51.59:737][109]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (724)
+[2022.02.22-19.51.59:737][109]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (721)
+[2022.02.22-19.51.59:737][109]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (719)
+[2022.02.22-19.51.59:738][109]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (717)
+[2022.02.22-19.51.59:738][109]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (716)
+[2022.02.22-19.51.59:917][109]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (713)
+[2022.02.22-19.51.59:918][109]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (711)
+[2022.02.22-19.51.59:918][109]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (709)
+[2022.02.22-19.51.59:918][109]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (707)
+[2022.02.22-19.51.59:918][109]LogModuleManager: Shutting down and abandoning module EditorConfig (705)
+[2022.02.22-19.51.59:918][109]LogModuleManager: Shutting down and abandoning module WorldPartitionEditor (703)
+[2022.02.22-19.51.59:918][109]LogModuleManager: Shutting down and abandoning module EditorFramework (701)
+[2022.02.22-19.51.59:918][109]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (699)
+[2022.02.22-19.51.59:918][109]LogModuleManager: Shutting down and abandoning module TraceInsights (697)
+[2022.02.22-19.51.59:918][109]MemoryProfiler: Shutdown
+[2022.02.22-19.51.59:918][109]NetworkingProfiler: Shutdown
+[2022.02.22-19.51.59:918][109]LoadingProfiler: Shutdown
+[2022.02.22-19.51.59:918][109]TimingProfiler: Shutdown
+[2022.02.22-19.51.59:919][109]LogModuleManager: Shutting down and abandoning module TraceServices (696)
+[2022.02.22-19.51.59:919][109]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (693)
+[2022.02.22-19.51.59:919][109]LogModuleManager: Shutting down and abandoning module InteractiveToolsFramework (692)
+[2022.02.22-19.51.59:919][109]LogModuleManager: Shutting down and abandoning module InputBindingEditor (688)
+[2022.02.22-19.51.59:919][109]LogModuleManager: Shutting down and abandoning module MergeActors (686)
+[2022.02.22-19.51.59:919][109]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (684)
+[2022.02.22-19.51.59:919][109]LogModuleManager: Shutting down and abandoning module LocalizationService (683)
+[2022.02.22-19.51.59:919][109]LogModuleManager: Shutting down and abandoning module HardwareTargeting (680)
+[2022.02.22-19.51.59:919][109]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (678)
+[2022.02.22-19.51.59:919][109]LogModuleManager: Shutting down and abandoning module UndoHistory (676)
+[2022.02.22-19.51.59:919][109]LogModuleManager: Shutting down and abandoning module XmlParser (674)
+[2022.02.22-19.51.59:919][109]LogModuleManager: Shutting down and abandoning module Blutility (672)
+[2022.02.22-19.51.59:919][109]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (670)
+[2022.02.22-19.51.59:919][109]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (669)
+[2022.02.22-19.51.59:920][109]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (666)
+[2022.02.22-19.51.59:920][109]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (665)
+[2022.02.22-19.51.59:920][109]LogModuleManager: Shutting down and abandoning module SettingsEditor (662)
+[2022.02.22-19.51.59:920][109]LogModuleManager: Shutting down and abandoning module ProjectLauncher (660)
+[2022.02.22-19.51.59:920][109]LogModuleManager: Shutting down and abandoning module SessionFrontend (658)
+[2022.02.22-19.51.59:920][109]LogModuleManager: Shutting down and abandoning module ProfilerClient (656)
+[2022.02.22-19.51.59:920][109]LogModuleManager: Shutting down and abandoning module DeviceManager (654)
+[2022.02.22-19.51.59:920][109]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (653)
+[2022.02.22-19.51.59:931][109]LogModuleManager: Shutting down and abandoning module AutomationController (650)
+[2022.02.22-19.51.59:931][109]LogModuleManager: Shutting down and abandoning module AutomationWindow (648)
+[2022.02.22-19.51.59:931][109]LogModuleManager: Shutting down and abandoning module Layers (646)
+[2022.02.22-19.51.59:931][109]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (644)
+[2022.02.22-19.51.59:931][109]LogModuleManager: Shutting down and abandoning module DetailCustomizations (642)
+[2022.02.22-19.51.59:931][109]LogModuleManager: Shutting down and abandoning module PackagesDialog (640)
+[2022.02.22-19.51.59:931][109]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (638)
+[2022.02.22-19.51.59:931][109]LogModuleManager: Shutting down and abandoning module Persona (636)
+[2022.02.22-19.51.59:931][109]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (635)
+[2022.02.22-19.51.59:931][109]LogModuleManager: Shutting down and abandoning module AnimGraph (633)
+[2022.02.22-19.51.59:931][109]LogModuleManager: Shutting down and abandoning module Kismet (630)
+[2022.02.22-19.51.59:931][109]LogModuleManager: Shutting down and abandoning module KismetWidgets (629)
+[2022.02.22-19.51.59:931][109]LogModuleManager: Shutting down and abandoning module GraphEditor (626)
+[2022.02.22-19.51.59:931][109]LogModuleManager: Shutting down and abandoning module StructViewer (624)
+[2022.02.22-19.51.59:931][109]LogModuleManager: Shutting down and abandoning module ClassViewer (622)
+[2022.02.22-19.51.59:934][109]LogModuleManager: Shutting down and abandoning module SourceControlWindows (620)
+[2022.02.22-19.51.59:934][109]LogModuleManager: Shutting down and abandoning module OutputLog (618)
+[2022.02.22-19.51.59:936][109]LogModuleManager: Shutting down and abandoning module Documentation (616)
+[2022.02.22-19.51.59:936][109]LogModuleManager: Shutting down and abandoning module LiveCoding (614)
+[2022.02.22-19.51.59:936][109]LogModuleManager: Shutting down and abandoning module LevelSequence (612)
+[2022.02.22-19.51.59:936][109]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (610)
+[2022.02.22-19.51.59:936][109]LogModuleManager: Shutting down and abandoning module MovieScene (608)
+[2022.02.22-19.51.59:936][109]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (606)
+[2022.02.22-19.51.59:936][109]LogModuleManager: Shutting down and abandoning module LauncherPlatform (604)
+[2022.02.22-19.51.59:936][109]LogModuleManager: Shutting down and abandoning module AnalyticsET (602)
+[2022.02.22-19.51.59:936][109]LogModuleManager: Shutting down and abandoning module PortalServices (600)
+[2022.02.22-19.51.59:936][109]LogModuleManager: Shutting down and abandoning module PortalRpc (598)
+[2022.02.22-19.51.59:936][109]LogModuleManager: Shutting down and abandoning module MessagingRpc (596)
+[2022.02.22-19.51.59:936][109]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (594)
+[2022.02.22-19.51.59:936][109]LogModuleManager: Shutting down and abandoning module AudioMixerCore (593)
+[2022.02.22-19.51.59:936][109]LogModuleManager: Shutting down and abandoning module AIModule (590)
+[2022.02.22-19.51.59:936][109]LogModuleManager: Shutting down and abandoning module GameplayDebugger (589)
+[2022.02.22-19.51.59:936][109]LogModuleManager: Shutting down and abandoning module AITestSuite (587)
+[2022.02.22-19.51.59:936][109]LogModuleManager: Shutting down and abandoning module NavigationSystem (585)
+[2022.02.22-19.51.59:936][109]LogModuleManager: Shutting down and abandoning module LevelInstanceEditor (582)
+[2022.02.22-19.51.59:936][109]LogModuleManager: Shutting down and abandoning module TypedElementRuntime (580)
+[2022.02.22-19.51.59:936][109]LogModuleManager: Shutting down and abandoning module TypedElementFramework (578)
+[2022.02.22-19.51.59:936][109]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (576)
+[2022.02.22-19.51.59:936][109]LogModuleManager: Shutting down and abandoning module ProfilerService (574)
+[2022.02.22-19.52.00:028][109]LogModuleManager: Shutting down and abandoning module TaskGraph (572)
+[2022.02.22-19.52.00:028][109]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (570)
+[2022.02.22-19.52.00:028][109]LogModuleManager: Shutting down and abandoning module MegascansPlugin (568)
+[2022.02.22-19.52.00:304][109]LogModuleManager: Shutting down and abandoning module Bridge (566)
+[2022.02.22-19.52.00:304][109]LogModuleManager: Shutting down and abandoning module OculusEditor (564)
+[2022.02.22-19.52.00:304][109]LogModuleManager: Shutting down and abandoning module OculusInput (562)
+[2022.02.22-19.52.00:304][109]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (560)
+[2022.02.22-19.52.00:304][109]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (558)
+[2022.02.22-19.52.00:304][109]LogModuleManager: Shutting down and abandoning module CollectionManager (557)
+[2022.02.22-19.52.00:304][109]LogModuleManager: Shutting down and abandoning module SynthesisEditor (554)
+[2022.02.22-19.52.00:304][109]LogModuleManager: Shutting down and abandoning module Synthesis (552)
+[2022.02.22-19.52.00:304][109]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (550)
+[2022.02.22-19.52.00:304][109]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (548)
+[2022.02.22-19.52.00:304][109]LogModuleManager: Shutting down and abandoning module ScreenshotTools (546)
+[2022.02.22-19.52.00:304][109]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (544)
+[2022.02.22-19.52.00:304][109]LogModuleManager: Shutting down and abandoning module InterchangeFbxParser (542)
+[2022.02.22-19.52.00:304][109]LogModuleManager: Shutting down and abandoning module InterchangeDispatcher (540)
+[2022.02.22-19.52.00:304][109]LogModuleManager: Shutting down and abandoning module InterchangePipelines (538)
+[2022.02.22-19.52.00:304][109]LogModuleManager: Shutting down and abandoning module InterchangeExport (536)
+[2022.02.22-19.52.00:304][109]LogModuleManager: Shutting down and abandoning module InterchangeImport (534)
+[2022.02.22-19.52.00:304][109]LogModuleManager: Shutting down and abandoning module InterchangeNodes (532)
+[2022.02.22-19.52.00:304][109]LogModuleManager: Shutting down and abandoning module HairStrandsEditor (530)
+[2022.02.22-19.52.00:305][109]LogModuleManager: Shutting down and abandoning module GooglePAD (528)
+[2022.02.22-19.52.00:305][109]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (526)
+[2022.02.22-19.52.00:305][109]LogModuleManager: Shutting down and abandoning module CableComponent (524)
+[2022.02.22-19.52.00:305][109]LogModuleManager: Shutting down and abandoning module AudioCapture (522)
+[2022.02.22-19.52.00:305][109]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (521)
+[2022.02.22-19.52.00:305][109]LogModuleManager: Shutting down and abandoning module AssetTags (518)
+[2022.02.22-19.52.00:305][109]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (516)
+[2022.02.22-19.52.00:305][109]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (514)
+[2022.02.22-19.52.00:305][109]LogModuleManager: Shutting down and abandoning module AppleImageUtils (512)
+[2022.02.22-19.52.00:305][109]LogModuleManager: Shutting down and abandoning module AndroidPermission (510)
+[2022.02.22-19.52.00:305][109]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (508)
+[2022.02.22-19.52.00:305][109]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (506)
+[2022.02.22-19.52.00:305][109]LogModuleManager: Shutting down and abandoning module TemplateSequence (504)
+[2022.02.22-19.52.00:305][109]LogModuleManager: Shutting down and abandoning module MotoSynthEditor (502)
+[2022.02.22-19.52.00:305][109]LogModuleManager: Shutting down and abandoning module MotoSynth (500)
+[2022.02.22-19.52.00:305][109]LogModuleManager: Shutting down and abandoning module MeshModelingToolsEditorOnly (498)
+[2022.02.22-19.52.00:305][109]LogModuleManager: Shutting down and abandoning module MeshModelingTools (496)
+[2022.02.22-19.52.00:305][109]LogModuleManager: Shutting down and abandoning module ModelingOperatorsEditorOnly (494)
+[2022.02.22-19.52.00:305][109]LogModuleManager: Shutting down and abandoning module ModelingOperators (492)
+[2022.02.22-19.52.00:305][109]LogModuleManager: Shutting down and abandoning module ModelingComponents (490)
+[2022.02.22-19.52.00:305][109]LogModuleManager: Shutting down and abandoning module MeshConversion (488)
+[2022.02.22-19.52.00:305][109]LogModuleManager: Shutting down and abandoning module DynamicMesh (486)
+[2022.02.22-19.52.00:305][109]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (484)
+[2022.02.22-19.52.00:305][109]LogModuleManager: Shutting down and abandoning module GeometricObjects (482)
+[2022.02.22-19.52.00:305][109]LogModuleManager: Shutting down and abandoning module MediaCompositing (480)
+[2022.02.22-19.52.00:305][109]LogModuleManager: Shutting down and abandoning module ImgMedia (478)
+[2022.02.22-19.52.00:305][109]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (476)
+[2022.02.22-19.52.00:305][109]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (475)
+[2022.02.22-19.52.00:305][109]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (472)
+[2022.02.22-19.52.00:305][109]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (470)
+[2022.02.22-19.52.00:305][109]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (468)
+[2022.02.22-19.52.00:305][109]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (466)
+[2022.02.22-19.52.00:305][109]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (464)
+[2022.02.22-19.52.00:305][109]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (462)
+[2022.02.22-19.52.00:305][109]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (460)
+[2022.02.22-19.52.00:305][109]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (458)
+[2022.02.22-19.52.00:305][109]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (456)
+[2022.02.22-19.52.00:305][109]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (454)
+[2022.02.22-19.52.00:305][109]LogModuleManager: Shutting down and abandoning module ChaosNiagara (452)
+[2022.02.22-19.52.00:305][109]LogModuleManager: Shutting down and abandoning module FractureEditor (450)
+[2022.02.22-19.52.00:305][109]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (448)
+[2022.02.22-19.52.00:305][109]LogModuleManager: Shutting down and abandoning module BackChannel (446)
+[2022.02.22-19.52.00:305][109]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (444)
+[2022.02.22-19.52.00:305][109]LogModuleManager: Shutting down and abandoning module AutomationUtils (442)
+[2022.02.22-19.52.00:305][109]LogModuleManager: Shutting down and abandoning module AlembicImporter (440)
+[2022.02.22-19.52.00:305][109]LogModuleManager: Shutting down and abandoning module AlembicLibrary (439)
+[2022.02.22-19.52.00:305][109]LogModuleManager: Shutting down and abandoning module GeometryCache (438)
+[2022.02.22-19.52.00:305][109]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (437)
+[2022.02.22-19.52.00:306][109]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (432)
+[2022.02.22-19.52.00:306][109]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (430)
+[2022.02.22-19.52.00:306][109]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (428)
+[2022.02.22-19.52.00:306][109]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (426)
+[2022.02.22-19.52.00:306][109]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (424)
+[2022.02.22-19.52.00:306][109]LogModuleManager: Shutting down and abandoning module UObjectPlugin (422)
+[2022.02.22-19.52.00:306][109]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (420)
+[2022.02.22-19.52.00:306][109]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (418)
+[2022.02.22-19.52.00:306][109]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (416)
+[2022.02.22-19.52.00:306][109]LogModuleManager: Shutting down and abandoning module PluginUtils (414)
+[2022.02.22-19.52.00:306][109]LogModuleManager: Shutting down and abandoning module PluginBrowser (412)
+[2022.02.22-19.52.00:306][109]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (410)
+[2022.02.22-19.52.00:306][109]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (408)
+[2022.02.22-19.52.00:306][109]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (406)
+[2022.02.22-19.52.00:306][109]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (404)
+[2022.02.22-19.52.00:306][109]LogModuleManager: Shutting down and abandoning module InterchangeEditor (402)
+[2022.02.22-19.52.00:306][109]LogModuleManager: Shutting down and abandoning module GitSourceControl (400)
+[2022.02.22-19.52.00:306][109]LogModuleManager: Shutting down and abandoning module EditorScriptingUtilities (398)
+[2022.02.22-19.52.00:306][109]LogModuleManager: Shutting down and abandoning module EditorDebugTools (396)
+[2022.02.22-19.52.00:306][109]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (394)
+[2022.02.22-19.52.00:306][109]LogModuleManager: Shutting down and abandoning module CryptoKeys (392)
+[2022.02.22-19.52.00:306][109]LogModuleManager: Shutting down and abandoning module CurveEditorTools (390)
+[2022.02.22-19.52.00:306][109]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (388)
+[2022.02.22-19.52.00:306][109]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (386)
+[2022.02.22-19.52.00:306][109]LogModuleManager: Shutting down and abandoning module GameplayCameras (384)
+[2022.02.22-19.52.00:306][109]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (382)
+[2022.02.22-19.52.00:306][109]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (380)
+[2022.02.22-19.52.00:306][109]LogModuleManager: Shutting down and abandoning module Paper2DEditor (378)
+[2022.02.22-19.52.00:306][109]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (376)
+[2022.02.22-19.52.00:306][109]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (374)
+[2022.02.22-19.52.00:307][109]LogModuleManager: Shutting down and abandoning module SoundFields (372)
+[2022.02.22-19.52.00:307][109]LogModuleManager: Shutting down and abandoning module SignificanceManager (370)
+[2022.02.22-19.52.00:307][109]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (368)
+[2022.02.22-19.52.00:307][109]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (366)
+[2022.02.22-19.52.00:307][109]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (364)
+[2022.02.22-19.52.00:307][109]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (362)
+[2022.02.22-19.52.00:307][109]LogModuleManager: Shutting down and abandoning module AudioAnalyzer (361)
+[2022.02.22-19.52.00:307][109]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (358)
+[2022.02.22-19.52.00:307][109]LogModuleManager: Shutting down and abandoning module ActorSequence (356)
+[2022.02.22-19.52.00:307][109]LogModuleManager: Shutting down and abandoning module UdpMessaging (354)
+[2022.02.22-19.52.00:407][109]LogModuleManager: Shutting down and abandoning module TcpMessaging (352)
+[2022.02.22-19.52.00:508][109]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (350)
+[2022.02.22-19.52.00:508][109]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (348)
+[2022.02.22-19.52.00:508][109]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (346)
+[2022.02.22-19.52.00:508][109]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (344)
+[2022.02.22-19.52.00:508][109]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (342)
+[2022.02.22-19.52.00:508][109]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2022.02.22-19.52.00:508][109]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (340)
+[2022.02.22-19.52.00:508][109]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (338)
+[2022.02.22-19.52.00:508][109]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (336)
+[2022.02.22-19.52.00:508][109]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (334)
+[2022.02.22-19.52.00:508][109]LogModuleManager: Shutting down and abandoning module MagicLeapController (332)
+[2022.02.22-19.52.00:523][109]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2022.02.22-19.52.00:523][109]LogModuleManager: Shutting down and abandoning module MagicLeapARPinImpl (330)
+[2022.02.22-19.52.00:523][109]LogModuleManager: Shutting down and abandoning module MagicLeapAR (328)
+[2022.02.22-19.52.00:523][109]LogModuleManager: Shutting down and abandoning module AugmentedReality (327)
+[2022.02.22-19.52.00:524][109]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (324)
+[2022.02.22-19.52.00:524][109]LogModuleManager: Shutting down and abandoning module Niagara (322)
+[2022.02.22-19.52.00:524][109]LogModuleManager: Shutting down and abandoning module SignalProcessing (321)
+[2022.02.22-19.52.00:524][109]LogModuleManager: Shutting down and abandoning module NiagaraEditor (319)
+[2022.02.22-19.52.00:524][109]LogModuleManager: Shutting down and abandoning module NiagaraCore (316)
+[2022.02.22-19.52.00:524][109]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (314)
+[2022.02.22-19.52.00:524][109]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (312)
+[2022.02.22-19.52.00:524][109]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (310)
+[2022.02.22-19.52.00:524][109]LogModuleManager: Shutting down and abandoning module FacialAnimation (308)
+[2022.02.22-19.52.00:524][109]LogModuleManager: Shutting down and abandoning module DataValidation (306)
+[2022.02.22-19.52.00:524][109]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (304)
+[2022.02.22-19.52.00:524][109]LogModuleManager: Shutting down and abandoning module LevelEditor (303)
+[2022.02.22-19.52.00:529][109]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (302)
+[2022.02.22-19.52.00:529][109]LogModuleManager: Shutting down and abandoning module LevelAssetEditor (300)
+[2022.02.22-19.52.00:529][109]LogModuleManager: Shutting down and abandoning module AssetPlacementEdMode (299)
+[2022.02.22-19.52.00:529][109]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (296)
+[2022.02.22-19.52.00:530][109]LogModuleManager: Shutting down and abandoning module MainFrame (294)
+[2022.02.22-19.52.00:530][109]LogModuleManager: Shutting down and abandoning module HotReload (293)
+[2022.02.22-19.52.00:530][109]LogModuleManager: Shutting down and abandoning module ContentBrowser (289)
+[2022.02.22-19.52.00:530][109]LogModuleManager: Shutting down and abandoning module ToolMenus (288)
+[2022.02.22-19.52.00:530][109]LogModuleManager: Shutting down and abandoning module ContentBrowserData (286)
+[2022.02.22-19.52.00:530][109]LogModuleManager: Shutting down and abandoning module TreeMap (283)
+[2022.02.22-19.52.00:530][109]LogModuleManager: Shutting down and abandoning module AnimationSharing (280)
+[2022.02.22-19.52.00:530][109]LogModuleManager: Shutting down and abandoning module Paper2D (278)
+[2022.02.22-19.52.00:530][109]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (276)
+[2022.02.22-19.52.00:530][109]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (274)
+[2022.02.22-19.52.00:531][109]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (272)
+[2022.02.22-19.52.00:531][109]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (270)
+[2022.02.22-19.52.00:531][109]LogModuleManager: Shutting down and abandoning module PacketHandler (268)
+[2022.02.22-19.52.00:531][109]LogModuleManager: Shutting down and abandoning module AnimationDataController (266)
+[2022.02.22-19.52.00:531][109]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (264)
+[2022.02.22-19.52.00:531][109]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (262)
+[2022.02.22-19.52.00:531][109]LogModuleManager: Shutting down and abandoning module MediaAssets (260)
+[2022.02.22-19.52.00:531][109]LogModuleManager: Shutting down and abandoning module Overlay (258)
+[2022.02.22-19.52.00:531][109]LogModuleManager: Shutting down and abandoning module OverlayEditor (257)
+[2022.02.22-19.52.00:531][109]LogModuleManager: Shutting down and abandoning module VREditor (254)
+[2022.02.22-19.52.00:531][109]LogModuleManager: Shutting down and abandoning module StringTableEditor (252)
+[2022.02.22-19.52.00:531][109]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (250)
+[2022.02.22-19.52.00:531][109]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (248)
+[2022.02.22-19.52.00:531][109]LogModuleManager: Shutting down and abandoning module FunctionalTesting (246)
+[2022.02.22-19.52.00:531][109]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (244)
+[2022.02.22-19.52.00:531][109]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (243)
+[2022.02.22-19.52.00:531][109]LogModuleManager: Shutting down and abandoning module UMG (240)
+[2022.02.22-19.52.00:531][109]LogModuleManager: Shutting down and abandoning module UMGEditor (239)
+[2022.02.22-19.52.00:531][109]LogModuleManager: Shutting down and abandoning module SlateReflector (234)
+[2022.02.22-19.52.00:531][109]LogModuleManager: Shutting down and abandoning module Slate (232)
+[2022.02.22-19.52.00:531][109]LogModuleManager: Shutting down and abandoning module SlateCore (230)
+[2022.02.22-19.52.00:532][109]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (228)
+[2022.02.22-19.52.00:532][109]LogModuleManager: Shutting down and abandoning module UnrealEd (226)
+[2022.02.22-19.52.00:532][109]LogModuleManager: Shutting down and abandoning module MRMesh (224)
+[2022.02.22-19.52.00:532][109]LogModuleManager: Shutting down and abandoning module Messaging (222)
+[2022.02.22-19.52.00:532][109]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (220)
+[2022.02.22-19.52.00:532][109]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (218)
+[2022.02.22-19.52.00:532][109]LogModuleManager: Shutting down and abandoning module XAudio2 (216)
+[2022.02.22-19.52.00:532][109]LogModuleManager: Shutting down and abandoning module Networking (214)
+[2022.02.22-19.52.00:532][109]LogModuleManager: Shutting down and abandoning module Core (212)
+[2022.02.22-19.52.00:532][109]LogModuleManager: Shutting down and abandoning module SourceControl (210)
+[2022.02.22-19.52.00:532][109]LogModuleManager: Shutting down and abandoning module MessageLog (209)
+[2022.02.22-19.52.00:532][109]LogModuleManager: Shutting down and abandoning module MovieSceneTools (206)
+[2022.02.22-19.52.00:532][109]LogModuleManager: Shutting down and abandoning module CurveEditor (205)
+[2022.02.22-19.52.00:533][109]LogModuleManager: Shutting down and abandoning module Sequencer (203)
+[2022.02.22-19.52.00:533][109]LogModuleManager: Shutting down and abandoning module EditorStyle (202)
+[2022.02.22-19.52.00:533][109]LogModuleManager: Shutting down and abandoning module KismetCompiler (198)
+[2022.02.22-19.52.00:533][109]LogModuleManager: Shutting down and abandoning module MeshBuilder (196)
+[2022.02.22-19.52.00:533][109]LogModuleManager: Shutting down and abandoning module NaniteBuilder (194)
+[2022.02.22-19.52.00:533][109]LogModuleManager: Shutting down and abandoning module MeshUtilities (192)
+[2022.02.22-19.52.00:533][109]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (191)
+[2022.02.22-19.52.00:533][109]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (190)
+[2022.02.22-19.52.00:533][109]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (189)
+[2022.02.22-19.52.00:533][109]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (187)
+[2022.02.22-19.52.00:533][109]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (185)
+[2022.02.22-19.52.00:533][109]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (183)
+[2022.02.22-19.52.00:533][109]LogModuleManager: Shutting down and abandoning module MaterialBaking (179)
+[2022.02.22-19.52.00:533][109]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (174)
+[2022.02.22-19.52.00:533][109]LogModuleManager: Shutting down and abandoning module DerivedDataCache (172)
+[2022.02.22-19.52.00:538][109]LogModuleManager: Shutting down and abandoning module TargetPlatform (170)
+[2022.02.22-19.52.00:538][109]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (169)
+[2022.02.22-19.52.00:538][109]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (167)
+[2022.02.22-19.52.00:538][109]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (165)
+[2022.02.22-19.52.00:538][109]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (163)
+[2022.02.22-19.52.00:538][109]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (161)
+[2022.02.22-19.52.00:538][109]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (159)
+[2022.02.22-19.52.00:538][109]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (157)
+[2022.02.22-19.52.00:538][109]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (155)
+[2022.02.22-19.52.00:538][109]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (153)
+[2022.02.22-19.52.00:538][109]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (151)
+[2022.02.22-19.52.00:538][109]LogModuleManager: Shutting down and abandoning module ImageWrapper (150)
+[2022.02.22-19.52.00:538][109]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (147)
+[2022.02.22-19.52.00:538][109]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (145)
+[2022.02.22-19.52.00:538][109]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (143)
+[2022.02.22-19.52.00:539][109]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (141)
+[2022.02.22-19.52.00:539][109]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (139)
+[2022.02.22-19.52.00:539][109]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (137)
+[2022.02.22-19.52.00:539][109]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (135)
+[2022.02.22-19.52.00:539][109]LogModuleManager: Shutting down and abandoning module LinuxAArch64TargetPlatform (133)
+[2022.02.22-19.52.00:539][109]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (131)
+[2022.02.22-19.52.00:539][109]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (129)
+[2022.02.22-19.52.00:539][109]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (127)
+[2022.02.22-19.52.00:539][109]LogModuleManager: Shutting down and abandoning module TurnkeySupport (125)
+[2022.02.22-19.52.00:539][109]LogModuleManager: Shutting down and abandoning module InputCore (122)
+[2022.02.22-19.52.00:539][109]LogModuleManager: Shutting down and abandoning module Settings (120)
+[2022.02.22-19.52.00:539][109]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (118)
+[2022.02.22-19.52.00:540][109]LogModuleManager: Shutting down and abandoning module ChaosSolverEngine (116)
+[2022.02.22-19.52.00:540][109]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (115)
+[2022.02.22-19.52.00:540][109]LogModuleManager: Shutting down and abandoning module Chaos (112)
+[2022.02.22-19.52.00:540][109]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (110)
+[2022.02.22-19.52.00:540][109]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (109)
+[2022.02.22-19.52.00:540][109]LogModuleManager: Shutting down and abandoning module AVEncoder (108)
+[2022.02.22-19.52.00:540][109]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (104)
+[2022.02.22-19.52.00:540][109]LogModuleManager: Shutting down and abandoning module SteamVRInput (102)
+[2022.02.22-19.52.00:540][109]LogModuleManager: Shutting down and abandoning module SteamVR (100)
+[2022.02.22-19.52.00:540][109]LogHMD: Freeing OpenVRDLLHandle.
+[2022.02.22-19.52.00:540][109]LogModuleManager: Shutting down and abandoning module OculusHMD (98)
+[2022.02.22-19.52.00:540][109]LogModuleManager: Shutting down and abandoning module HairStrandsCore (96)
+[2022.02.22-19.52.00:540][109]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (94)
+[2022.02.22-19.52.00:540][109]LogModuleManager: Shutting down and abandoning module ChunkDownloader (92)
+[2022.02.22-19.52.00:540][109]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (90)
+[2022.02.22-19.52.00:540][109]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (86)
+[2022.02.22-19.52.00:540][109]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (84)
+[2022.02.22-19.52.00:541][109]LogModuleManager: Shutting down and abandoning module XMPP (79)
+[2022.02.22-19.52.00:541][109]LogModuleManager: Shutting down and abandoning module WebSockets (78)
+[2022.02.22-19.52.00:567][109]LogModuleManager: Shutting down and abandoning module HTTP (75)
+[2022.02.22-19.52.00:567][109]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2022.02.22-19.52.00:567][109]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0BAE3BD1-41FE-87E4-A32B-05B4123279FE%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.0-16682836%2B%2B%2BUE5%2BRelease-5.0-EarlyAccess&UserID=534583594f1917b77eb8478e1724ba8c%7Cf41290cd1ab7424693a0c1d48fd36772%7C1b507bd0-897d-4c74-afe4-4088d8a33ae3&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2022.02.22-19.52.00:567][109]LogHttp: Display: cleaning up 1 outstanding Http requests.
+[2022.02.22-19.52.00:599][109]LogModuleManager: Shutting down and abandoning module SSL (74)
+[2022.02.22-19.52.00:601][109]LogModuleManager: Shutting down and abandoning module WmfMedia (70)
+[2022.02.22-19.52.00:603][109]LogModuleManager: Shutting down and abandoning module Media (69)
+[2022.02.22-19.52.00:603][109]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (66)
+[2022.02.22-19.52.00:604][109]LogModuleManager: Shutting down and abandoning module MLSDK (64)
+[2022.02.22-19.52.00:604][109]LogModuleManager: Shutting down and abandoning module MagicLeap (62)
+[2022.02.22-19.52.00:604][109]LogModuleManager: Shutting down and abandoning module ChaosCloth (60)
+[2022.02.22-19.52.00:604][109]LogModuleManager: Shutting down and abandoning module VariantManagerContent (58)
+[2022.02.22-19.52.00:604][109]LogModuleManager: Shutting down and abandoning module DatasmithContent (56)
+[2022.02.22-19.52.00:604][109]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (54)
+[2022.02.22-19.52.00:604][109]LogModuleManager: Shutting down and abandoning module NiagaraShader (52)
+[2022.02.22-19.52.00:604][109]LogModuleManager: Shutting down and abandoning module AISupportModule (50)
+[2022.02.22-19.52.00:604][109]LogModuleManager: Shutting down and abandoning module DesktopPlatform (48)
+[2022.02.22-19.52.00:604][109]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (46)
+[2022.02.22-19.52.00:604][109]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (44)
+[2022.02.22-19.52.00:604][109]LogModuleManager: Shutting down and abandoning module PlatformCrypto (42)
+[2022.02.22-19.52.00:604][109]LogModuleManager: Shutting down and abandoning module XGEController (40)
+[2022.02.22-19.52.00:604][109]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2022.02.22-19.52.00:604][109]LogModuleManager: Shutting down and abandoning module AudioEditor (36)
+[2022.02.22-19.52.00:605][109]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2022.02.22-19.52.00:605][109]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2022.02.22-19.52.00:605][109]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2022.02.22-19.52.00:605][109]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2022.02.22-19.52.00:605][109]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2022.02.22-19.52.00:607][109]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2022.02.22-19.52.00:607][109]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2022.02.22-19.52.00:607][109]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2022.02.22-19.52.00:607][109]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2022.02.22-19.52.00:607][109]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2022.02.22-19.52.00:607][109]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2022.02.22-19.52.00:607][109]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2022.02.22-19.52.00:607][109]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2022.02.22-19.52.00:607][109]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2022.02.22-19.52.00:607][109]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2022.02.22-19.52.00:607][109]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2022.02.22-19.52.00:607][109]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2022.02.22-19.52.00:608][109]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2022.02.22-19.52.00:641][109]LogD3D11RHI: Shutdown
+[2022.02.22-19.52.00:641][109]LogD3D11RHI: CleanupD3DDevice
+[2022.02.22-19.52.00:680][109]LogExit: Exiting.
+[2022.02.22-19.52.00:701][109]Log file closed, 02/22/22 20:52:00
